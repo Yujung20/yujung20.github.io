@@ -1,0 +1,71 @@
+{
+  "skillCount": {
+    "Python": 4,
+    "SQL": 6,
+    "R": 4,
+    "AWS": 2,
+    "Spark": 2,
+    "Kafka": 1,
+    "Airflow": 2,
+    "Docker": 1,
+    "Kubernetes": 1,
+    "dbt": 3,
+    "PostgreSQL": 2,
+    "MySQL": 2,
+    "BigQuery": 1,
+    "Scala": 1,
+    "GCP": 1,
+    "Azure": 1,
+    "ETL": 2
+  },
+  "roleSkillMap": {
+    "Data-Engineer-Mapping": {
+      "Python": 1,
+      "SQL": 1,
+      "R": 1,
+      "AWS": 1,
+      "Spark": 1,
+      "Kafka": 1,
+      "Airflow": 1,
+      "Docker": 1,
+      "Kubernetes": 1,
+      "dbt": 1,
+      "PostgreSQL": 1,
+      "MySQL": 1
+    },
+    "Data-Engineer": {
+      "Python": 1,
+      "SQL": 1
+    },
+    "Founding-Data-Engineer": {
+      "SQL": 1,
+      "R": 1,
+      "dbt": 1,
+      "BigQuery": 1
+    },
+    "-Co-Junior-Data-Engineer": {
+      "Python": 1,
+      "SQL": 1,
+      "R": 1,
+      "Scala": 1,
+      "AWS": 1,
+      "GCP": 1,
+      "Azure": 1,
+      "Spark": 1,
+      "Airflow": 1,
+      "dbt": 1,
+      "PostgreSQL": 1,
+      "MySQL": 1
+    },
+    "Startup-Data-Engineering-Intern": {
+      "Python": 1,
+      "SQL": 1,
+      "ETL": 1
+    },
+    "Federal-Credit-Union-Junior-Data-Engineer": {
+      "SQL": 1,
+      "R": 1,
+      "ETL": 1
+    }
+  }
+}
