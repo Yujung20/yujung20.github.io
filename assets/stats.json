@@ -1,8 +1,8 @@
 {
   "skillCount": {
     "Python": 5,
-    "SQL": 7,
-    "R": 5,
+    "SQL": 8,
+    "R": 6,
     "AWS": 2,
     "Spark": 2,
     "Kafka": 1,
@@ -11,14 +11,16 @@
     "Kubernetes": 1,
     "dbt": 4,
     "PostgreSQL": 2,
-    "MySQL": 2,
+    "MySQL": 3,
     "BigQuery": 2,
     "Scala": 1,
     "GCP": 1,
     "Azure": 1,
     "ETL": 3,
     "Snowflake": 1,
-    "Redshift": 1
+    "Redshift": 1,
+    "Go": 1,
+    "Redis": 1
   },
   "roleSkillMap": {
     "Data-Engineer-Mapping": {
@@ -74,6 +76,13 @@
       "SQL": 1,
       "R": 1,
       "ETL": 1
+    },
+    "Backend-Engineer-Intern": {
+      "SQL": 1,
+      "R": 1,
+      "Go": 1,
+      "MySQL": 1,
+      "Redis": 1
     }
   },
   "skillPairs": {
@@ -88,7 +97,7 @@
     "Python + dbt": 3,
     "PostgreSQL + Python": 2,
     "MySQL + Python": 2,
-    "R + SQL": 5,
+    "R + SQL": 6,
     "AWS + SQL": 2,
     "SQL + Spark": 2,
     "Kafka + SQL": 1,
@@ -97,7 +106,7 @@
     "Kubernetes + SQL": 1,
     "SQL + dbt": 4,
     "PostgreSQL + SQL": 2,
-    "MySQL + SQL": 2,
+    "MySQL + SQL": 3,
     "AWS + R": 2,
     "R + Spark": 2,
     "Kafka + R": 1,
@@ -106,7 +115,7 @@
     "Kubernetes + R": 1,
     "R + dbt": 4,
     "PostgreSQL + R": 2,
-    "MySQL + R": 2,
+    "MySQL + R": 3,
     "AWS + Spark": 2,
     "AWS + Kafka": 1,
     "AWS + Airflow": 2,
@@ -194,11 +203,18 @@
     "ETL + Snowflake": 1,
     "BigQuery + Redshift": 1,
     "ETL + Redshift": 1,
-    "BigQuery + ETL": 1
+    "BigQuery + ETL": 1,
+    "Go + SQL": 1,
+    "Redis + SQL": 1,
+    "Go + R": 1,
+    "R + Redis": 1,
+    "Go + MySQL": 1,
+    "Go + Redis": 1,
+    "MySQL + Redis": 1
   },
   "levelCount": {
     "Unknown": 4,
     "Junior": 2,
-    "Intern": 1
+    "Intern": 2
   }
 }
