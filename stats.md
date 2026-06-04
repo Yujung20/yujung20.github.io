@@ -8,6 +8,14 @@ permalink: /stats/
 
 <style>
   .stats-container { max-width: 780px; margin: 2.5rem auto; padding: 0 1.5rem; font-family: 'Nanum Gothic', sans-serif; }
+
+  /* 페이지 대제목 — post.html 회사명(1.8rem, Noto Sans KR)에 맞춤 */
+  .post-content h1, h1.post-title, .page-title, h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #1a1a1a;
+  }
   .chart-section { margin-bottom: 52px; }
 
   /* 섹션 제목 — post.html의 h2와 동일 */
@@ -28,9 +36,9 @@ permalink: /stats/
   .bar-label { width: 180px; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; text-align: right; padding-right: 12px; flex-shrink: 0; color: #444; }
   .bar-track { flex: 1; background: #f0f0f0; border-radius: 4px; height: 22px; }
   .bar-fill { height: 100%; border-radius: 4px; transition: width 0.4s; }
-  .bar-fill.blue   { background: #0A66C2; }
-  .bar-fill.teal   { background: #36b0a0; }
-  .bar-fill.purple { background: #8e6bbf; }
+  .bar-fill.blue   { background: #4A7A9B; }
+  .bar-fill.teal   { background: #3D7A6A; }
+  .bar-fill.purple { background: #5A5A8F; }
   .bar-count { margin-left: 10px; font-size: 13px; font-family: 'Nanum Gothic', sans-serif; color: #555; width: 30px; }
 
   .role-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
@@ -44,7 +52,7 @@ permalink: /stats/
     background: #fff;
     color: #444;
   }
-  .role-tab.active { background: #0A66C2; color: #fff; border-color: #0A66C2; }
+  .role-tab.active { background: #4A7A9B; color: #fff; border-color: #4A7A9B; }
 
   .no-data { color: #999; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; }
 
@@ -84,7 +92,7 @@ permalink: /stats/
 </div>
 
 <script>
-const COLORS = ['#4a90e2','#36b0a0','#f5a623','#8e6bbf','#e25c5c','#50c878'];
+const COLORS = ['#4A7A9B','#3D7A6A','#5A5A8F','#7A6A4A','#7A4A4A','#6A7A4A'];
 
 fetch('/assets/stats.json')
   .then(res => res.json())
