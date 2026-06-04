@@ -1,22 +1,24 @@
 {
   "skillCount": {
-    "Python": 4,
-    "SQL": 6,
-    "R": 4,
+    "Python": 5,
+    "SQL": 7,
+    "R": 5,
     "AWS": 2,
     "Spark": 2,
     "Kafka": 1,
     "Airflow": 2,
     "Docker": 1,
     "Kubernetes": 1,
-    "dbt": 3,
+    "dbt": 4,
     "PostgreSQL": 2,
     "MySQL": 2,
-    "BigQuery": 1,
+    "BigQuery": 2,
     "Scala": 1,
     "GCP": 1,
     "Azure": 1,
-    "ETL": 2
+    "ETL": 3,
+    "Snowflake": 1,
+    "Redshift": 1
   },
   "roleSkillMap": {
     "Data-Engineer-Mapping": {
@@ -34,8 +36,14 @@
       "MySQL": 1
     },
     "Data-Engineer": {
-      "Python": 1,
-      "SQL": 1
+      "Python": 2,
+      "SQL": 2,
+      "R": 1,
+      "dbt": 1,
+      "Snowflake": 1,
+      "Redshift": 1,
+      "BigQuery": 1,
+      "ETL": 1
     },
     "Founding-Data-Engineer": {
       "SQL": 1,
