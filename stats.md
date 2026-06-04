@@ -36,9 +36,9 @@ permalink: /stats/
   .bar-label { width: 180px; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; text-align: right; padding-right: 12px; flex-shrink: 0; color: #444; }
   .bar-track { flex: 1; background: #f0f0f0; border-radius: 4px; height: 22px; }
   .bar-fill { height: 100%; border-radius: 4px; transition: width 0.4s; }
-  .bar-fill.blue   { background: #4A7A9B; }
-  .bar-fill.teal   { background: #3D7A6A; }
-  .bar-fill.purple { background: #5A5A8F; }
+  .bar-fill.blue   { background: #5C6BC0; }
+  .bar-fill.teal   { background: #26A69A; }
+  .bar-fill.purple { background: #C2677A; }
   .bar-count { margin-left: 10px; font-size: 13px; font-family: 'Nanum Gothic', sans-serif; color: #555; width: 30px; }
 
   .role-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
@@ -52,7 +52,7 @@ permalink: /stats/
     background: #fff;
     color: #444;
   }
-  .role-tab.active { background: #4A7A9B; color: #fff; border-color: #4A7A9B; }
+  .role-tab.active { background: #5C6BC0; color: #fff; border-color: #5C6BC0; }
 
   .no-data { color: #999; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; }
 
@@ -92,7 +92,7 @@ permalink: /stats/
 </div>
 
 <script>
-const COLORS = ['#4A7A9B','#3D7A6A','#5A5A8F','#7A6A4A','#7A4A4A','#6A7A4A'];
+const COLORS = ['#C47A8A','#6A9FC0','#7AAD8A','#9B8EC4','#D4A853','#74C2A8'];
 
 fetch('/assets/stats.json')
   .then(res => res.json())
