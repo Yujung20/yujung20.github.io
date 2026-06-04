@@ -4,27 +4,54 @@ title: 채용 트렌드
 permalink: /stats/
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+
 <style>
-  .stats-container { max-width: 820px; margin: 0 auto; }
+  .stats-container { max-width: 780px; margin: 2.5rem auto; padding: 0 1.5rem; font-family: 'Nanum Gothic', sans-serif; }
   .chart-section { margin-bottom: 52px; }
-  .chart-section h2 { font-size: 1.15rem; margin-bottom: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 8px; }
+
+  /* 섹션 제목 — post.html의 h2와 동일 */
+  .chart-section h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-left: 3px solid #0A66C2;
+    border-bottom: none;
+    padding-left: 10px;
+    padding-bottom: 0;
+    margin: 2rem 0 1.2rem;
+    line-height: 1.4;
+  }
+
   .bar-wrap { display: flex; align-items: center; margin-bottom: 10px; }
-  .bar-label { width: 180px; font-size: 0.88rem; text-align: right; padding-right: 12px; flex-shrink: 0; color: #333; }
+  .bar-label { width: 180px; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; text-align: right; padding-right: 12px; flex-shrink: 0; color: #444; }
   .bar-track { flex: 1; background: #f0f0f0; border-radius: 4px; height: 22px; }
   .bar-fill { height: 100%; border-radius: 4px; transition: width 0.4s; }
-  .bar-fill.blue  { background: #4a90e2; }
-  .bar-fill.teal  { background: #36b0a0; }
-  .bar-fill.purple{ background: #8e6bbf; }
-  .bar-count { margin-left: 10px; font-size: 0.85rem; color: #555; width: 30px; }
+  .bar-fill.blue   { background: #0A66C2; }
+  .bar-fill.teal   { background: #36b0a0; }
+  .bar-fill.purple { background: #8e6bbf; }
+  .bar-count { margin-left: 10px; font-size: 13px; font-family: 'Nanum Gothic', sans-serif; color: #555; width: 30px; }
+
   .role-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
-  .role-tab { padding: 6px 14px; border: 1px solid #ccc; border-radius: 20px; cursor: pointer; font-size: 0.85rem; background: #fff; }
-  .role-tab.active { background: #4a90e2; color: #fff; border-color: #4a90e2; }
-  .no-data { color: #999; font-size: 0.9rem; }
+  .role-tab {
+    padding: 6px 14px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: 'Nanum Gothic', sans-serif;
+    background: #fff;
+    color: #444;
+  }
+  .role-tab.active { background: #0A66C2; color: #fff; border-color: #0A66C2; }
+
+  .no-data { color: #999; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; }
 
   /* 경력 도넛 차트 */
   .donut-wrap { display: flex; align-items: center; gap: 40px; flex-wrap: wrap; }
   .donut-legend { display: flex; flex-direction: column; gap: 10px; }
-  .legend-item { display: flex; align-items: center; gap: 8px; font-size: 0.9rem; }
+  .legend-item { display: flex; align-items: center; gap: 8px; font-size: 14px; font-family: 'Nanum Gothic', sans-serif; color: #444; }
   .legend-dot { width: 14px; height: 14px; border-radius: 50%; flex-shrink: 0; }
 </style>
 
@@ -155,11 +182,11 @@ function renderLevelDonut(levelCount) {
 
   // 가운데 총 공고수 텍스트
   ctx.fillStyle = '#333';
-  ctx.font = 'bold 22px sans-serif';
+  ctx.font = "bold 22px 'Nanum Gothic', sans-serif";
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
   ctx.fillText(total, cx, cy - 8);
-  ctx.font = '12px sans-serif';
+  ctx.font = "12px 'Nanum Gothic', sans-serif";
   ctx.fillStyle = '#888';
   ctx.fillText('공고', cx, cy + 12);
 
