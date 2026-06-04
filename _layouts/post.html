@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+  .post-wrapper {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  .post-wrapper h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    color: #1a1a1a !important;
+    border-left: 3px solid #0A66C2 !important;
+    padding-left: 10px !important;
+    margin: 2rem 0 1.2rem !important;
+    line-height: 1.4 !important;
+    border-bottom: none !important;
+  }
+  .post-wrapper p {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.8;
+    margin: 0 0 0.6rem;
+  }
+  .post-wrapper ul {
+    list-style: none;
+    padding-left: 1rem;
+    margin: 0;
+  }
+  .post-wrapper ul li {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.8;
+    padding-left: 1rem;
+    position: relative;
+    margin-bottom: 2px;
+  }
+  .post-wrapper ul li::before {
+    content: "–";
+    position: absolute;
+    left: 0;
+    color: #0A66C2;
+  }
+  .resizable-box {
+    resize: vertical;
+    overflow: auto;
+    min-height: 80px;
+    max-height: 600px;
+    height: 160px;
+    border: 1px solid #eaeaea;
+    border-radius: 6px;
+    padding: 10px 14px;
+    background: #fafafa;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #555;
+  }
+  .link-badge {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    color: #185FA5;
+    background: #E6F1FB;
+    padding: 3px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  .link-line {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 1.5rem 0;
+  }
+  .link-line a {
+    font-size: 13px;
+    color: #0A66C2;
+    text-decoration: none;
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  .post-wrapper hr {
+    display: none;
+  }
+</style>
+
+<div style="max-width: 780px; margin: 2.5rem auto; padding: 0 1.5rem;">
+
+  <a href="/" style="font-size: 13px; color: #0A66C2; text-decoration: none; font-family: 'Nanum Gothic', sans-serif;">← 목록으로</a>
+
+  {% assign parts = page.title | split: " - " %}
+  {% assign company = parts[0] | replace: "-", " " %}
+  {% assign role = parts[1] | replace: "-", " " %}
+
+  <div style="margin-top: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h1 style="font-family: 'Noto Sans KR', sans-serif; font-size: 1.8rem; font-weight: 700; margin: 0; color: #1a1a1a;">{{ company }}</h1>
+      <p style="font-family: 'Nanum Gothic', sans-serif; font-size: 13px; color: #aaa; margin: 0; flex-shrink: 0; margin-left: 16px;">{{ page.date | date: "%b %-d, %Y" }}</p>
+    </div>
+    <p style="font-family: 'Noto Sans KR', sans-serif; font-size: 1.1rem; font-weight: 500; color: #0A66C2; margin: 8px 0 0;">Role : {{ role }}</p>
+  </div>
+
+  <div class="post-wrapper" id="post-content" style="margin-top: 2rem;">
+    {{ content }}
+  </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var wrapper = document.getElementById("post-content");
+  var headings = wrapper.querySelectorAll("h2");
+
+  headings.forEach(function (h2) {
+    var text = h2.textContent.trim();
+
+    // 공고 링크: 뱃지 + URL 한 줄
+    if (text.includes("링크")) {
+      var next = h2.nextElementSibling;
+      if (next && next.tagName === "P") {
+        var url = next.textContent.trim();
+        var shortUrl = url.replace("https://", "").replace("http://", "");
+        if (shortUrl.length > 40) shortUrl = shortUrl.substring(0, 40) + "...";
+        var line = document.createElement("div");
+        line.className = "link-line";
+        line.innerHTML = '<span class="link-badge">공고 링크</span><a href="' + url + '" target="_blank">' + shortUrl + '</a>';
+        h2.parentNode.insertBefore(line, h2);
+        h2.remove();
+        next.remove();
+      }
+      return;
+    }
+
+    // 공고 원문: 크기 조절 가능한 박스
+    if (text.includes("원문")) {
+      var box = document.createElement("div");
+      box.className = "resizable-box";
+      var sibling = h2.nextElementSibling;
+      while (sibling && sibling.tagName !== "H2" && sibling.tagName !== "HR") {
+        var nextSib = sibling.nextElementSibling;
+        box.appendChild(sibling);
+        sibling = nextSib;
+      }
+      h2.after(box);
+      return;
+    }
+    // 공고 링크 아래 첫 번째 hr만 보이게
+    var firstHr = wrapper.querySelector("hr");
+    if (firstHr) {
+      firstHr.style.display = "block";
+      firstHr.style.border = "none";
+      firstHr.style.borderTop = "1px solid #eaeaea";
+      firstHr.style.margin = "1.5rem 0";
+    }
+
+    // 공고 한국어 요약 / 추천 대상: 마침표 기준 줄바꿈
+    if (text.includes("요약") || text.includes("추천")) {
+      var sibling = h2.nextElementSibling;
+      while (sibling && sibling.tagName !== "H2" && sibling.tagName !== "HR") {
+        var nextSib = sibling.nextElementSibling;
+        if (sibling.tagName === "P") {
+          var raw = sibling.textContent.trim();
+          var sentences = raw.split(/\.\s+/).filter(Boolean);
+          var newHtml = sentences.map(function(s) {
+            return '<p>' + s.trim().replace(/\.$/, '') + '.</p>';
+          }).join('');
+          sibling.outerHTML = newHtml;
+        }
+        sibling = nextSib;
+      }
+      return;
+    }
+  });
+});
+</script>
