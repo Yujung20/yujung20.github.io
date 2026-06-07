@@ -1,8 +1,8 @@
 {
   "skillCount": {
-    "Python": 6,
+    "Python": 7,
     "SQL": 8,
-    "R": 7,
+    "R": 8,
     "AWS": 3,
     "Spark": 3,
     "Kafka": 1,
@@ -21,7 +21,8 @@
     "Redshift": 1,
     "Go": 1,
     "Redis": 1,
-    "Java": 1
+    "Java": 1,
+    "NLP": 1
   },
   "roleSkillMap": {
     "Data-Engineer-Mapping": {
@@ -90,11 +91,16 @@
       "Go": 1,
       "MySQL": 1,
       "Redis": 1
+    },
+    "AI-Algorithm-Intern": {
+      "Python": 1,
+      "R": 1,
+      "NLP": 1
     }
   },
   "skillPairs": {
     "Python + SQL": 5,
-    "Python + R": 4,
+    "Python + R": 5,
     "AWS + Python": 3,
     "Python + Spark": 3,
     "Kafka + Python": 1,
@@ -224,11 +230,13 @@
     "AWS + Java": 1,
     "GCP + Java": 1,
     "Azure + Java": 1,
-    "Java + Spark": 1
+    "Java + Spark": 1,
+    "NLP + Python": 1,
+    "NLP + R": 1
   },
   "levelCount": {
     "Unknown": 5,
     "Junior": 2,
-    "Intern": 2
+    "Intern": 3
   }
 }
