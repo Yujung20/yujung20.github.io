@@ -8,6 +8,38 @@ layout: default
   </h1>
 
   <style>
+    .search-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .search-input {
+      flex: 1;
+      min-width: 160px;
+      padding: 8px 14px;
+      border: 1px solid #dbdbdb;
+      border-radius: 8px;
+      font-size: 13px;
+      font-family: 'Nanum Gothic', sans-serif;
+      color: #333;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .search-input:focus {
+      border-color: #0A66C2;
+    }
+    .search-input::placeholder {
+      color: #bbb;
+    }
+    .no-results {
+      grid-column: 1 / -1;
+      text-align: center;
+      color: #bbb;
+      font-size: 14px;
+      padding: 3rem 0;
+      display: none;
+    }
     .job-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -16,6 +48,9 @@ layout: default
     @media (max-width: 600px) {
       .job-grid {
         grid-template-columns: 1fr;
+      }
+      .search-bar {
+        flex-direction: column;
       }
     }
     .job-card {
@@ -53,18 +88,70 @@ layout: default
     }
   </style>
 
-  <div class="job-grid">
+  <!-- 검색창 -->
+  <div class="search-bar">
+    <input class="search-input" id="search-company" type="text" placeholder="회사명 검색">
+    <input class="search-input" id="search-role" type="text" placeholder="직무명 검색">
+  </div>
+
+  <div class="job-grid" id="job-grid">
+    {% assign now = site.time | date: "%s" | plus: 0 %}
+    {% assign one_month = 2592000 %}
+
     {% for post in site.posts %}
       {% unless post.title == "Welcome to Jekyll!" %}
-        {% assign parts = post.title | split: " - " %}
-        {% assign company = parts[0] | replace: "-", " " %}
-        {% assign role = parts[1] | replace: "-", " " %}
-        <a href="{{ post.url }}" class="job-card">
-          <p class="job-company">{{ company }}</p>
-          <p class="job-role">{{ role }}</p>
-          <p class="job-date">{{ post.date | date: "%b %-d, %Y" }}</p>
-        </a>
+        {% assign post_time = post.date | date: "%s" | plus: 0 %}
+        {% assign age = now | minus: post_time %}
+        {% if age <= one_month %}
+          {% assign parts = post.title | split: " - " %}
+          {% assign company = parts[0] | replace: "-", " " %}
+          {% assign role = parts[1] | replace: "-", " " %}
+          <a href="{{ post.url }}"
+             class="job-card"
+             data-company="{{ company | downcase }}"
+             data-role="{{ role | downcase }}">
+            <p class="job-company">{{ company }}</p>
+            <p class="job-role">{{ role }}</p>
+            <p class="job-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+          </a>
+        {% endif %}
       {% endunless %}
     {% endfor %}
+
+    <p class="no-results" id="no-results">검색 결과가 없어요.</p>
   </div>
 </div>
+
+<script>
+  const companyInput = document.getElementById('search-company');
+  const roleInput = document.getElementById('search-role');
+  const cards = document.querySelectorAll('.job-card');
+  const noResults = document.getElementById('no-results');
+
+  function filterCards() {
+    const company = companyInput.value.toLowerCase().trim();
+    const role = roleInput.value.toLowerCase().trim();
+
+    let visibleCount = 0;
+
+    cards.forEach(function(card) {
+      const cardCompany = card.dataset.company;
+      const cardRole = card.dataset.role;
+
+      const companyMatch = company === '' || cardCompany.includes(company);
+      const roleMatch = role === '' || cardRole.includes(role);
+
+      if (companyMatch && roleMatch) {
+        card.style.display = 'flex';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+  }
+
+  companyInput.addEventListener('input', filterCards);
+  roleInput.addEventListener('input', filterCards);
+</script>
