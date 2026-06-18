@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7764903"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7764903
+
+---
+
 ## 원문
 
 Company Introduction &nbsp; Coupang is reimagining the shopping experience with the goal of wowing each customer from the instant they open the Coupang app to the moment an order is delivered to their door.&nbsp;&nbsp; Our services in Taiwan include “Rocket Delivery” which offers next-day delivery for a wide selection of items at affordable prices, “Rocket Overseas” which offers free international delivery on millions of best-selling products from Korea, the U.S., and beyond.&nbsp;&nbsp;&nbsp; &nbsp;We are looking for talents to help us lead Coupang’s expansion in Taiwan. This is an exceptional opportunity to become a part of Coupang’s growth in Taiwan and create a world where our customers wonder, “How did I ever live without Coupang?”&nbsp; &nbsp; Role Overview Coupang Taiwan is looking for a Senior Analyst to join our&nbsp;Affiliate Marketing Operations. In this role, you will work within the Growth Analytics team to enable marketing campaigns across various&nbsp;affiliate&nbsp;chan

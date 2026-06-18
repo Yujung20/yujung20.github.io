@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/354916"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/354916
+
+---
+
 ## 원문
 
 Robotics Forward Deployed ML Engineer는

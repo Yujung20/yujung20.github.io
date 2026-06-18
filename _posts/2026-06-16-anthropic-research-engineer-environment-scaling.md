@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4951064008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4951064008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role The Environment Scaling team is a team of researchers and engineers whose goal is to improve the intelligence of our public models for novel verticals and use cases. The team builds the training environments that fuel RL at scale. This is a unique role that combines executing directly on ML research, data operations, and project management to improve our models. You'll own the end-to-end process of creating RL environments for new capabilities: identifying high-value tasks, designing reward signals, managing vendor relationships, and measuring impact on model performance. Responsibilities: Improve and execute our fine-tuning strategies for

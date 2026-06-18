@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364755"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364755
+
+---
+
 ## 원문
 
 스몰티켓은 데이터 기반 위험관리에 집중하는 인슈어테크 기업으로, 모빌리티 시장과 기술진화에 따라 AI 자회사 'SMT AI'와 해외 기술 자회사를 설립하여 함께 Risk 관리 영역의 AX와 이를 통한 상품/서비스 혁신을 추진하고 있습니다. 

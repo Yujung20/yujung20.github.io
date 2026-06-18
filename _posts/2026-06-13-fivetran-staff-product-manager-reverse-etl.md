@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.fivetran.com/careers/job?gh_jid=7644168003"
 ---
 
+## 링크
+
+https://www.fivetran.com/careers/job?gh_jid=7644168003
+
+---
+
 ## 원문
 
 From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About the Role Fivetran is building the next generation of data platforms designed to power all the future analytics, automation, and AI use cases that our thousands of customers need to power their business. As a Product Manager on the Census team at Fivetran, you'll be working closely with the Census founders, as well as the design and engineering teams to dramatically expand the ambition and scope of Fivetran, and redefine how modern businesses operate with data. You’ll be working directly with both the Census and Fivetran teams to incorporate Census’s reverse ETL product capabilities into Fivetran’s industry lea

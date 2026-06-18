@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364280"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364280
+
+---
+
 ## 원문
 
 제조 현장의 이미지 데이터를 Foundation Model 시대의 방법론으로 풀어내는 시니어 포지션입니다. 

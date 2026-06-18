@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367296"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367296
+
+---
+
 ## 원문
 
 [뷰티셀렉션의 미션]

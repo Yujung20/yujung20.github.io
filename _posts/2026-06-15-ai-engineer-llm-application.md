@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/322458"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/322458
+
+---
+
 ## 원문
 
 Claythis는 SF Bay Area에 기반을 둔 GenAI 스타트업으로, 3D 컨텐츠 제작 도구를 만들고 있습니다. 우리의 미션은 3D 캐릭터부터 인터랙티브 컴패니언에 이르는 복잡한 크리에이티브 제작을 프롬프트를 입력하는 것만큼 쉽고 간편하게 만드는 것입니다.

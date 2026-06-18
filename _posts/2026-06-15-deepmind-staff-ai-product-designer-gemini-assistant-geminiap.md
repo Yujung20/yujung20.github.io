@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7762107"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7762107
+
+---
+
 ## 원문
 
 Snapshot The Gemini App Design team is instrumental in building the Gemini Universal Assistant, the conversational AI that people around the world use to collaborate with generative AI to fuel their imagination, expand their curiosity, and enhance their productivity. We're building innovative ways for people to get things done &amp; enrich their lives. Our Design team is dedicated to developing the world's useful generative AI experiences.&nbsp;&nbsp;&nbsp; About Us At Google DeepMind, we aim to unlock state-of-the-art artificial intelligence capabilities across Alphabet, creating positive impact and magical product experiences for billions of users. &nbsp;We're a world-leading AI research company, pushing the boundaries of what's possible with artificial intelligence. Our groundbreaking research spans areas like machine learning, neuroscience, and systems engineering, with applications ranging from scientific discovery to creating more helpful and intuitive products. We're committed t

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7219900"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7219900
+
+---
+
 ## 원문
 
 Job Description We are seeking a Research Engineer to lead the development and deployment of novel applications, leveraging Google’s generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for engineers with a strong track record of building and shipping software, ideally with experience in early-stage environments where they have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact. This role requires a strong software engineering foundation and a passion for building and iterating on software products, using state-of-the-art GenAI tools. We are looking for engineers who thrive

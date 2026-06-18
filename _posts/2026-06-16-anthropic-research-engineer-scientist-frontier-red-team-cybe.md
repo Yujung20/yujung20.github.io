@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5076477008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5076477008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Team The Frontier Red Team (FRT) is a small, focused technical research team within Anthropic's Policy organization. Our goal is to make the entire world safer in an era of advanced AI by understanding what these systems can do and building the defenses that matter. In 2026, we're focused on researching and ensuring safety with self-improving, highly autonomous AI systems, especially ones related to cyberphysical capabilities. See our previous related work on exploits , partnering with Mozilla , and zero days . This is early-stage, high-conviction research with the potential for outsized impact — Glasswing is one example. Note: We are exclusive

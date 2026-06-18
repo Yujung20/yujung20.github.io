@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7669433"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7669433
+
+---
+
 ## 원문
 
 Snapshot We are seeking a highly motivated Research Engineer (L5) with a strong background in multi-modal modelling for humans and a focus on speech &amp; audio/visual to join the effort within Google DeepMind's Frontier AI unit. This role is pivotal in developing foundational multimodal AI capabilities to understand, generate, and protect human likeness. As a key contributor, you will design and implement cutting-edge models and frameworks, pushing the boundaries of AI to enable foundational capabilities for human-centric understanding and generation. This is a unique opportunity to contribute to impactful research and advance Google DeepMind's mission towards Artificial General Intelligence (AGI). About us Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence and ultimately achieve Artificial Gen

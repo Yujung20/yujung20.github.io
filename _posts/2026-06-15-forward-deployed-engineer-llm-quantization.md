@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/327404"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/327404
+
+---
+
 ## 원문
 
 함께하게 될 ​FDE본부 ​Frontier팀을 ​소개합니다 !

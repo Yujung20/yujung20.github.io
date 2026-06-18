@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/365273"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/365273
+
+---
+
 ## 원문
 
 한국신용데이터(KCD)는 데이터를 바탕으로 사업의 모든 순간을 더 쉽게, 더 빠르게, 더 똑똑하게 만드는 생태계를 일궈냅니다. 

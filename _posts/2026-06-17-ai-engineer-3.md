@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368805"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368805
+
+---
+
 ## 원문
 
 레브잇 PMF팀은 강재윤 CEO를 포함한 핵심 멤버들이 모여,

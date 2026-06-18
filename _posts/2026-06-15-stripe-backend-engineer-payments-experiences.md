@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7895287"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7895287
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Global Payments Experiences group is an organization focused on bringing new and novel payment methods to Stripe, and ensuring Stripe’s systems work well for merchants globally. This team works with internal and external partners to expand regional, non-card payment options, and to expand the use of Stripe’s payments processing globally. What you’ll do This is a Sao Paulo-based team, with platform teams in the US and Europe and sister teams worldwide. This 

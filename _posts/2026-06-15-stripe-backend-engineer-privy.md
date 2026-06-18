@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7235875"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7235875
+
+---
+
 ## 원문
 
 Who we are About Privy Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails. Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe's distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives. Learn more about Privy: Privy and Stripe: Bringing crypto to everyone About the team Engineering at Privy is distinguished by: High urgency: Shipping very small iterations, very fast, to learn very quickly.&nbsp; Product taste: Our customers are developers, and to build effective products for them requires technical knowledge - you will often be "the PM". Security mindset: A great portion of our p

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5196852008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As part of our growing Data Science &amp; Analytics team, you will play an instrumental role in Anthropic's mission of building safe and beneficial AI — this time by driving data-informed decisions across the commercial customer lifecycle. This role sits at the intersection of fast-moving sales operations and rigorous statistical analysis. You will work across multiple segments and products, partnering with analytics engineers, fellow data scientists, and go-to-market leadership to turn complex commercial data into actionable strategy. You will own measurement and analysis for new logo acquisition through activation, expansion, and retenti

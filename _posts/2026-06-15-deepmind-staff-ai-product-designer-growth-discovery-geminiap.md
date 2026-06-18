@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7728122"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7728122
+
+---
+
 ## 원문
 
 About Us At Google DeepMind, we aim to unlock state-of-the-art artificial intelligence capabilities across Alphabet, creating positive impact and magical product experiences for billions of users.&nbsp; We're a world-leading AI research company, pushing the boundaries of what's possible with artificial intelligence. Our groundbreaking research spans areas like machine learning, neuroscience, and systems engineering, with applications ranging from scientific discovery to creating more helpful and intuitive products. We're committed to developing AI responsibly and ethically, and we foster a collaborative and inclusive environment where brilliant minds come together to tackle some of the world's most challenging problems. Join us and be part of a team that's shaping the future of AI. Role We are seeking a highly experienced, self-starting, and innovative Staff AI Product Designer f ocusing on our Growth and Discovery initiatives. As a key member of our team, you will work hand-in-hand wi

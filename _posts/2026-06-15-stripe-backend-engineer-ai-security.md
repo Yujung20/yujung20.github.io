@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7826765"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7826765
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team AI is moving fast and Stripe is moving fast to adopt it. But we need to make sure we do all of this safely, and for most of these tools, enterprise-grade security isn't just available off the shelf. That's where the AI security team comes in—we're responsible for building and partnering to create the right security primitives to enable Stripe to move fast safely. This is a team that works in the low-level components of our AI stack, so both infrastructure and s

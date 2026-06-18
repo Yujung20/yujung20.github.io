@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138"
 ---
 
+## 링크
+
+https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138
+
+---
+
 ## 원문
 
 Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open-source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are exte

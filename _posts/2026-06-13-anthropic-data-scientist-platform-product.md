@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5116820008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5116820008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As part of our growing Data Science and Analytics team, you will play a key role in Anthropic's mission of building safe and beneficial AI by driving data-informed decision-making across the organization. You'll be embedded with teams supporting our Developer Platform — the infrastructure that enables developers and enterprise customers to build on Claude via our core API, agent orchestration, tool and MCP integrations, and knowledge management capabilities. In this role, you'll partner closely with product, engineering, and go-to-market teams to understand how AI agents are being built and deployed at scale. You'll identify growth opportu

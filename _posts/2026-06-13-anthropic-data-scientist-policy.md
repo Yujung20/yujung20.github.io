@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5232055008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5232055008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As one of our first Data Scientists dedicated to policy work, you will play a key role in ensuring Anthropic's work is understood by policymakers around the world. You'll sit at the intersection of data science and public affairs, transforming internal product usage and survey data into clear, accurate, and consistent evidence the Policy team can use to inform its positions, demonstrate Anthropic’s relevance to policymakers, and measure the impact of its work. Your analyses will directly inform how legislators, regulators, and the public understand Anthropic's footprint and contribution. This is a highly cross-functional role that is found

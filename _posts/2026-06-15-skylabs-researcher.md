@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/311491"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/311491
+
+---
+
 ## 원문
 
 안녕하세요, 반지형 의료기기 CART를 통해 질병관리 솔루션을 제공하는 스카이랩스 입니다.

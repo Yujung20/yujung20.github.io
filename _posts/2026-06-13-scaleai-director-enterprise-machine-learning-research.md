@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4679727005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4679727005
+
+---
+
 ## 원문
 
 The Enterprise ML team works on the front lines of the AI revolution, partnering deeply with customers to identify high-impact business problems and build cutting-edge AI systems using Scale’s proprietary research, data, and infrastructure—unlocking domain expertise through high-quality data and expert feedback. As Director of Enterprise ML, you will lead a world-class team of research scientists and engineers, define the research roadmap, and drive execution from early prototyping to deployment. You’ll thrive in a fast-moving environment, balancing deep technical leadership with people management, vision setting, and delivery. This role is ideal for a leader who thrives in ambiguity, understands both frontier GenAI capabilities and their limitations, and is motivated by turning research into durable, production-ready systems. What You’ll Do Lead, mentor and grow a team of research scientists and engineers working on GenAI research initiatives (e.g., evaluation, post-training, agents, 

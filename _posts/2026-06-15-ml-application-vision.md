@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/347949"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/347949
+
+---
+
 ## 원문
 
 [지신에 대해 알려드려요]

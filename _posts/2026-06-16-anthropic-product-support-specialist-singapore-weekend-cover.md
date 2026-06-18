@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5186965008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5186965008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role We are hiring our first Singapore-based Product Support Specialists, who will grow our global presence as a team and serve as champions of our unique support brand. You’ll be at the front lines of safely delivering AI to the world by responding to, investigating, and tracking user needs in your day to day. Additionally, you’ll help us identify – and close – gaps in our team’s technical knowledge, provide high-touch support to strategic customers, and demonstrate deep care for how we systematically support customers at scale.&nbsp; Note: Specialists in this role will work Wednesday to Sunday Responsibilities: Become an expert in all Anthrop

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7249744"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7249744
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Forward Deployed Engineering (FDE) team exists to solve the hardest problems our most complex enterprise users face, and to turn those solutions into platform capabilities that scale to everyone. We work across Revenue Suite, Payments, and adjacent products. This is not a support function. It is an engineering team that sits at the boundary between Stripe's platform and the real-world complexity of how large enterprises actually use it. The traditional FDE 

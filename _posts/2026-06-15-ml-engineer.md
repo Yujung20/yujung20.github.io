@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/348118"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/348118
+
+---
+
 ## 원문
 
 ▲서류 제출 후, 사전 설문조사(https://teamchallengers.oopy.io/survey)를 제출해주세요.(5분 내외)▲

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7493360"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7493360
+
+---
+
 ## 원문
 
 Snapshot Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority. Our team identifies, assesses, and mitigates potential catastrophic risks from current and future AI systems. As a member of technical staff, you will design, implement, and empirically validate approaches to assessing and managing catastrophic risk from current and future frontier AI systems. At the moment, these risks range from loss of control of advanced AI systems or automated ML R&amp;D through misuse of AI for widespread CBRN or cyber harm. About Us The Risk Assessment team measures and assesses the possible risks posed by frontier systems, making

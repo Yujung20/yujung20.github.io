@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/337566"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/337566
+
+---
+
 ## 원문
 
 "당신의 성장이 대웅의 목표입니다"

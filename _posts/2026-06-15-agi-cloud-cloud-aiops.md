@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367237"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367237
+
+---
+
 ## 원문
 
 오케스트AGI ​AI사업본부는

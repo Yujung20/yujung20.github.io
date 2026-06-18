@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368576"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368576
+
+---
+
 ## 원문
 
 Adriel은 기업이 마케팅 데이터를 한곳에 통합하고, 실시간으로 성과를 분석하며, 더 빠르고 정확한 의사결정을 내릴 수 있도록 돕는 마케팅 인텔리전스 플랫폼입니다.

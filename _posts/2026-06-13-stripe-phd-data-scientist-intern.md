@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7874965"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7874965
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We’re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact.&nbsp; Our work is broad and varied, influencing how our products work (e.g. understanding use

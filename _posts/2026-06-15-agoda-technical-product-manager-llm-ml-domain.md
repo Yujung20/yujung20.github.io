@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/agoda/jobs/7767925"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/agoda/jobs/7767925
+
+---
+
 ## 원문
 
 About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.&nbsp;&nbsp; &nbsp; Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide. &nbsp; No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us. Technical Product Manager – ML &amp; LLM Platforms The Opportunity Agoda is rapidly accelerating its AI transformation. Our ambition is to make ML and LLM application development fast, scalable

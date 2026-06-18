@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8476581002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8476581002
+
+---
+
 ## 원문
 
 P-1534 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&nbsp; As an Engineering Manager, you will work with your team to build mission-critical Lakebase services on the Databricks Platform at scale. Lakebase enables teams to deliver applications faster with an optimized database developer experience, integration with the lakehouse, and simplified operations. It provides a managed Postgres transactional layer for application state and workloads that combine operational data, analytics, and AI. You'll join as one of the founding engineering leaders to build out both the Lakebase product and our London presence.&nbsp; Key responsibilities include: Drive continuous delivery within a team of experts in storage technology, distributed systems and Rust. Manage the development and rollout

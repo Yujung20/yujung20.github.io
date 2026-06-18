@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5125083008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5125083008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Team As AI training and deployments scale, the volume of data we need to monitor and understand is exploding. Our team uses Claude itself to make sense of this data. We own an integrated set of tools enabling Anthropic to ask open-ended questions, surface unexpected patterns, and maintain meaningful human oversight over massive datasets. Our tools are widely adopted internally — powering ongoing enforcement , threat intelligence investigations , model audits , and more — and we’re looking for experienced engineers and researchers to both scale up existing applications and go zero-to-one on new ones. About the Role As a Research Engineer on our 

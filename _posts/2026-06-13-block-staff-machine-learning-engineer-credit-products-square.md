@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008
+
+---
+
 ## 원문
 
 Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block. The Role The Credit and Lending team is responsible for the predictive intelligence that underpins Block’s primary capital-intensive products. These products unlock unique access to credit for our customers, many of whom are otherwise underbanked and underserved by the traditional financial system. As a Machine Learning Engineer within Square Financial Serv

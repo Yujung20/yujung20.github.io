@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4980430008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4980430008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role: When you see what modern language models are capable of, do you wonder, "How do these things work? How can we trust them?" The Interpretability team at Anthropic is working to reverse-engineer how trained models work because we believe that a mechanistic understanding is the most robust way to make advanced systems safe. Think of us as doing "neuroscience" of neural networks using "microscopes" we build - or reverse-engineering neural networks like binary programs. More resources to learn about our work:&nbsp; Our research blog - covering advances including Monosemantic Features and Circuits An Introduction to Interpretability from our re

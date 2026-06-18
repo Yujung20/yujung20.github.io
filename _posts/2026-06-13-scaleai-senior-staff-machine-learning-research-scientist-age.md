@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4488520005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4488520005
+
+---
+
 ## 원문
 
 About Scale At Scale AI, our mission is to accelerate the development of AI applications. For 8 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including: generative AI, defense applications, and autonomous vehicles. With our recent Series F round, we’re accelerating the abundance of frontier data to pave the road to Artificial General Intelligence (AGI), and building upon our prior model evaluation work with enterprise customers and governments, to deepen our capabilities and offerings for both public and private evaluations. About the ACE team&nbsp; The Agent Capabilities &amp; Environments (ACE) team, part of Scale’s Research organization, brings together customer-facing Researchers and Applied AI Engineers. Our core mission includes research on agent environments and RL reward signals, benchmarking autonomous agent performance across real-world scenarios and environments, creating robust data programs to improve Large Language M

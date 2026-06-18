@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7428476"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7428476
+
+---
+
 ## 원문
 
 Our Internal Data team is on a mission to power decisions and applications across MongoDB, oriented around the business areas of GTM, Product &amp; Technology, Finance and HR. With this role, we are focusing on delivery of scalable, insightful, and impactful data products for our Product and Technology (P&amp;T) teams - the org that builds MongoDB products for our external customers. These products drive smarter decisions, automate workflows, enable AI agents and deliver actionable insights that accelerate growth. If shaping the future of data-as-a-product excites you, then this opportunity is for you. As a Senior Data Product Manager on our Data team — which includes Data Pipeline/Platform Engineering, Data Architecture, and Data Governance — you will lead efforts to build, enhance, and scale the data products MongoDB employees use every day across a growing, high-impact company. You’ll deliver data products like data pipelines, datasets, reports/dashboards, APIs, ML models, playbooks

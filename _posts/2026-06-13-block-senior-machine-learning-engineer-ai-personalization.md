@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/4811589008?gh_jid=4811589008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/4811589008?gh_jid=4811589008
+
+---
+
 ## 원문
 
 Block builds simple, powerful tools that make progress towards an economy that’s truly open to all. Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us. The Role Traditionally, ML systems were built to solve narrow tasks (e.g., item recommendations), with orchestration logic hard-coded outside the model. Increasingly, LLMs are becoming the orchestration layer, deciding which models to invoke, when to use them, how to interpret outputs, and how to chain steps together. In this paradigm, the mod

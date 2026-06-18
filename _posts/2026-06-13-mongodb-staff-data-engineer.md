@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7858063"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7858063
+
+---
+
 ## 원문
 
 The Data Engineering team is responsible for building ETL pipelines that populate the Internal Data Platform, which drives analytics that help the company run more efficiently. Our team builds highly performant and scalable processes that extract massive datasets and makes those datasets available for querying in an optimal way. We are looking to speak to candidates who are based in Gurgaon for our hybrid working model. What you’ll do Guide the Data Engineering team on building highly performance ETL pipelines using Spark and other Big Data technologies Help design the architecture of our Internal Data Platform to support the implementation of a robust medallion architecture Provide thought leadership on ways to achieve infrastructure cost savings on Cloud hyperscalers Design and build AI agents that can help automate many of the common development and support tasks that the team performs Work with Security and Compliance teams to ensure that datasets have appropriate permissions and r

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367014"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367014
+
+---
+
 ## 원문
 
 콘텐츠 산업의 LinkedIn, Cre8orClub

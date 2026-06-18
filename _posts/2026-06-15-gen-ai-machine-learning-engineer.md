@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/349523"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/349523
+
+---
+
 ## 원문
 
 bolttech is an international insurtech with a mission to build the world’s leading, technology-enabled ecosystem for protection and insurance. With a full suite of digital and data-driven capabilities, bolttech powers connections between insurers, distributors, and customers to make it easier and more efficient to buy and sell insurance and protection products. 

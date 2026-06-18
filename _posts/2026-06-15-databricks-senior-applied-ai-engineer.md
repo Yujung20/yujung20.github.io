@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002
+
+---
+
 ## 원문
 
 P-1439 &nbsp; As a Senior Applied ML/AI Engineer at Databricks, you will apply machine learning and optimization algorithms to improve the usability and efficiency of the current AutoML and several other user-facing products that will benefit from better classification, regression, forecasting, and recommendations, either classical or based on deep learning. From statistical models all the way down to deep and foundational models, feature augmentation and auto-tuning, our Applied ML/AI team works on some of the most complex, most interesting problems facing businesses, making Databricks' infrastructure and products as performant and cost-efficient as possible. This is a high-impact problem as our customers look at us to deliver the most out of their data. The impact you will have: Build features and run end-to-end systems in a small team of experienced engineers and data scientists. Shape the direction of our applied ML investment by engaging with engineering and product teams across t

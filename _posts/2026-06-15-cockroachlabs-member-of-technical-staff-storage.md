@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.cockroachlabs.com/careers/job/?gh_jid=7663160"
 ---
 
+## 링크
+
+https://www.cockroachlabs.com/careers/job/?gh_jid=7663160
+
+---
+
 ## 원문
 
 &nbsp; &nbsp; &nbsp; Category-defining tech. Career-defining work. Lots of tech companies disrupt. But, many fail when they try to scale. We're different. CockroachDB makes it easier for companies to build and scale apps. This is how and why we're helping some of the most innovative companies on the planet. We tackle problems head-on and focus on solutions that create lasting impact.&nbsp; Because when our customers win, we all win.&nbsp; &nbsp; The Role We're looking for a Software Engineer to join our Storage team. Storage is the team responsible for Pebble , CockroachDB’s storage engine. Storage is the bedrock of our database product, and is responsible for the safe, durable and efficient persistence and retrieval of data, on top of which the rest of the database is built. Our team develops and maintains Pebble, an innovative Log Structured Merge (LSM) Tree storage engine, purpose built for Multi Version Concurrency Control (MVCC) data. Additionally, our team develops higher layer s

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002
+
+---
+
 ## 원문
 
 P-1549 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. The Mission Databricks agents are only as good as the context they can retrieve. Whether an agent is answering a question about last quarter's revenue, debugging a failing job, generating SQL against a 10,000-table lakehouse, or summarizing a Wiki page, its quality is bounded by what it can find — and how well it understands what it finds. We are hiring a&nbsp; Senior Staff Applied AI Engineer to own context retrieval for Databricks agents across SaaS providers . This is a zero-to-one role with two deeply connected charters: Build the retrieval stack — query understanding, content understanding, ranking, retrieval,

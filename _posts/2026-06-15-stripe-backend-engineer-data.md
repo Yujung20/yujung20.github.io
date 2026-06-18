@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7913700"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7913700
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Data Foundations team drives Data Engineering and Data Apps and Tooling work across Stripe, enabling Stripes to leverage data to make informed decisions and build user-centric products. We provide tools and infrastructure to move, store, process, and analyze data, both at rest and in motion. We are looking for talented data-minded software engineers to help us manage business-critical data leveraged across the entire organization. If you are passionate abou

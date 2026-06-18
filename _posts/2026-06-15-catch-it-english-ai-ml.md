@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364777"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364777
+
+---
+
 ## 원문
 
 에듀테크 글로벌 강자!  캐치잇플레이에서 인공지능 교육의 미래를 바꾸어 나가기 위해 9.7억 건의 학습 행동 데이터를 기반으로,

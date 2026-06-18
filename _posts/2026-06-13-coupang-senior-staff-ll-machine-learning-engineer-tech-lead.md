@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7816155"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7816155
+
+---
+
 ## 원문
 
 Sr. Staff ll, Machine Learning Engineer - Search We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did we ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we’re collectively disrupting the multi-billion-dollar e-commerce industry from the ground up. We are one of the fastest-growing e-commerce companies that established an unparalleled reputation for being a dominant and reliable force in South Korean commerce. We are proud to have the best of both worlds — a startup culture with the resources of a large global public company. This fuels us to continue our growth and launch new services at the speed we have been since our inception. We are all entrepreneurial surrounded by opportunities to drive new initiatives and innovations. At our core, we are bold and ambitious people that like to get our hands dirty and make a hands-on impact. At Coupang, you will see yourself, your co

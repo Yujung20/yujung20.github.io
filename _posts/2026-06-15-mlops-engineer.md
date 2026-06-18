@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363297"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363297
+
+---
+
 ## 원문
 
 AI 모델이 실제 트래픽 환경에서

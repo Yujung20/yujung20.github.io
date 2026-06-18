@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/369006"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/369006
+
+---
+
 ## 원문
 
 소리튠영어는 이렇게 일합니다.

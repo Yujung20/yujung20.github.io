@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7957589"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7957589
+
+---
+
 ## 원문
 
 MongoDB’s Storage Layer Services (SLS) team is re-architecting the MongoDB cloud storage layer and sits at the heart of our next-generation cloud storage architecture. This relatively new team is building performant, multi-tenant distributed storage services that both enhance today’s Atlas storage stack and enable more customer workloads to run more efficiently. As the Site Reliability Engineering Manager for SLS, you will partner with the teams building these storage services to define SLOs, shape capacity plans, and ensure the reliability, durability, and operational safety of the storage layer that underpins Atlas. You’ll help grow and lead a small, senior team of SREs as founding members of this organization, playing a crucial role in executing on a multi-year roadmap for MongoDB’s cloud storage architecture. We are looking to speak to candidates who are based in Cork for our hybrid working model. Responsibilities Build and lead a team of 6-8 engineers, fostering a positive culture

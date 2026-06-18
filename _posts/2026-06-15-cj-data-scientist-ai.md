@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/365670"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/365670
+
+---
+
 ## 원문
 
 All Live Better,

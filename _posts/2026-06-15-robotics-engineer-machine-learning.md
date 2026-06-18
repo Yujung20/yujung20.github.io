@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363301"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363301
+
+---
+
 ## 원문
 
 '세계 최고의 AI 기반 모빌리티 플랫폼 기업'으로 성장하고 있는 베어로보틱스에서 각 분야에서 최고 수준의 동료들과 함께 할 여러분을 기다립니다.

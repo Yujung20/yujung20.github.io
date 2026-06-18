@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5247156008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5247156008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Anthropic's Safeguards team is responsible for the systems that allow us to deploy powerful AI models responsibly — and the data infrastructure underneath those systems is foundational to getting that right. The Safeguards Data Infrastructure team owns the offline data stack that underpins our safeguards work: the storage layer for sensitive user data, the tooling built on top of it, and the interfaces that let the rest of the Safeguards organization access that data safely and ergonomically. As Engineering Manager of this team, you'll be responsible for ensuring full portability of our safeguards data stack across an expanding set of depl

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7851168"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7851168
+
+---
+
 ## 원문
 
 MongoDB is seeking an experienced Product Manager to own the strategy and execution for two tightly integrated layers of our core database: Replication and Storage Engines (WiredTiger). Together, these layers underpin MongoDB’s durability, availability, and performance for customers running mission-critical workloads. This role spans two very different levels of customer visibility. Replication is, at its core, about keeping a distributed system in sync. Customer-facing concepts like failover, read concerns, and write concerns are how those guarantees surface. Customers understand and articulate those directly. WiredTiger internals like eviction, checkpointing, and cache management are invisible to customers, but are often blamed when "the system is misbehaving". You’ll need to move comfortably between both worlds: translating ambiguous customer symptoms into precise priorities for the storage engines team deep in the stack, while driving the replication roadmap and partnering with fel

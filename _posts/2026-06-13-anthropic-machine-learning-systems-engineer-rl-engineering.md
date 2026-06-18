@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4952051008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4952051008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role: You want to build the cutting-edge systems that train AI models like Claude. You're excited to work at the frontier of machine learning, implementing and improving advanced techniques to create ever more capable, reliable and steerable AI. As an ML Systems Engineer on our Reinforcement Learning Engineering team, you'll be responsible for the critical algorithms and infrastructure that our researchers depend on to train models. Your work will directly enable breakthroughs in AI capabilities and safety. You'll focus obsessively on improving the performance, robustness, and usability of these systems so our research can progress as quickly a

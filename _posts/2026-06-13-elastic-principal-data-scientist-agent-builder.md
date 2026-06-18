@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356"
 ---
 
+## 링크
+
+https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356
+
+---
+
 ## 원문
 
 Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. What is The Role The Search Conversational Experiences team builds Elastic’s new conversational and agentic platform that lets customers chat with their own data in Elasticsearch. We build the core quality layer for RAG, agents and tools, retrieval and citations, streaming, memory, and the evaluation signals that turn open-ended questions into grounded, reliable ans

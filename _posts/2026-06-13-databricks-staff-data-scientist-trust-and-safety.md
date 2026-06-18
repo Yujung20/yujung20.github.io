@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8178287002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8178287002
+
+---
+
 ## 원문
 
 RDQ426R282 Databricks is building the world's best and most secure platform for data and AI. We innovate and deploy industry-leading solutions in security, compliance, and governance.&nbsp; As a member of the Trust and Safety Data Science team, you will work on projects critical to ensuring the security and compliance of the Databricks Platform. Our customers depend on Databricks to keep their data safe, all while orchestrating millions of virtual machines across three clouds in dozens of regions around the globe. Our engineering teams build highly technical products that fulfill real, important needs in the world. We always push the boundaries of data and AI technology, while simultaneously operating with the security and scale that is critical to making customers successful on our platform. We serve many companies with varying security and compliance needs. To efficiently serve these markets, we need to understand how customers use our existing features. This requires data-driven ana

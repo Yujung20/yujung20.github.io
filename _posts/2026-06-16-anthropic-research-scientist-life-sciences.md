@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5239733008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5239733008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. We're seeking an exceptional Research Scientist to join our Life Sciences team at Anthropic. Our team is building a world-class research group focused on making Claude a superhuman life sciences research assistant. This role sits at the intersection of machine learning, software engineering, and biology — you'll directly improve model capabilities on scientific tasks through post-training, evaluation design, and RL environment development. As a core member of our Life Sciences team, you'll work in a high-impact team that translates deep biological domain knowledge into model training objectives, benchmarks, and agentic workflows. You'll help establish An

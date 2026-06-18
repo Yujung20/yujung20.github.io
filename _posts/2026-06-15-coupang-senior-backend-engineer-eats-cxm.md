@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7988270"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7988270
+
+---
+
 ## 원문
 
 회사 &nbsp; 소개 &nbsp; &nbsp; 쿠팡은 &nbsp; 고객 &nbsp; 감동 &nbsp; 실현을 &nbsp; 위해 &nbsp; 존재합니다 .&nbsp; 고객들이 &nbsp;" 쿠팡 &nbsp; 없이 &nbsp; 그동안 &nbsp; 어떻게 &nbsp; 살았을까 ?"&nbsp; 라고 &nbsp; 말할 &nbsp; 때 ,&nbsp; 비로소 &nbsp; 우리의 &nbsp; 미션을 &nbsp; 실현하고 &nbsp; 있음을 &nbsp; 알 &nbsp; 수 &nbsp; 있습니다 .&nbsp; 고객들의 &nbsp; 쇼핑과 &nbsp; 식사 ,&nbsp; 생활 &nbsp; 전반을 &nbsp; 편하게 &nbsp; 만들겠다는 &nbsp; 유일한 &nbsp; 집념으로 &nbsp; 쿠팡은 &nbsp; 수억 &nbsp; 달러 &nbsp; 규모의 &nbsp; 커머스 &nbsp; 산업 &nbsp; 전반의 &nbsp; 혁신을 &nbsp; 이끌고 &nbsp; 있습니다 .&nbsp; 쿠팡은 &nbsp; 가장 &nbsp; 빠르게 &nbsp; 성장하는 &nbsp; 리테일 &nbsp; 기업 &nbsp; 중 &nbsp; 하나로 ,&nbsp; 국내 &nbsp; 커머스 &nbsp; 업계에서의 &nbsp; 독보적인 &nbsp; 입지와 ,&nbsp; 고객 &nbsp; 신뢰를 &nbsp; 구축했습니다 . &nbsp; 쿠팡은 &nbsp; 스타트업 &nbsp; 문화를 &nbsp; 기반으로 &nbsp; 한 &nbsp; 글로벌 &nbsp; 대형 &nbsp; 상장사라고 &nbsp; 자부합니다 .&nbsp; 이것이 &nbsp; 창립 &nbsp; 당시의 &nbsp; 기민함을 &nbsp; 유지하며 ,&nbsp; 신규 &nbsp; 서비스를 &nbsp; 끊임없이 &nbsp; 출시하며 &nbsp; 비즈니스를 &nbsp; 확장해 &nbsp; 나가는 &nbsp; 우리의 &nbsp; 성장 &nbsp; 동력입니다 .&nbsp; 쿠팡의 &nbsp; 모든 &nbsp; 임직원에게는 &nbsp; 기업가 &nbsp; 정신을 &nb

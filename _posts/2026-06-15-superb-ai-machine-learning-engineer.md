@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/346523"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/346523
+
+---
+
 ## 원문
 
 [About Superb AI] 

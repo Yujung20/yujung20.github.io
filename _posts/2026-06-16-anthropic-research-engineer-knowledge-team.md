@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4017331008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4017331008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role: We are looking for Research Engineers to help us redesign how Claude interacts with external data sources. Many of the paradigms for how data and knowledge bases are organized assume human consumers and constraints. This is no longer true in a world of LLMs! Your job will be to design new architectures for how information is organized, and train language models to optimally use those architectures. Responsibilities: Designing and implementing from scratch new information architecture strategies Performing finetuning and reinforcement learning to teach language models how to interact with new information architectures Building “hard” knowl

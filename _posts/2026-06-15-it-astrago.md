@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/344112"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/344112
+
+---
+
 ## 원문
 
 데이터로 세상을 바꾸는 AI 기술기업, 씨이랩

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4675842005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4675842005
+
+---
+
 ## 원문
 
 Scale AI builds the data infrastructure that powers the world’s most advanced AI. We are the trusted data partner behind frontier model makers and enterprise AI teams — providing the high-quality training data, evaluation frameworks, and human-feedback systems that make models smarter, safer, and more capable. Scale operates as a two-sided marketplace. On the demand side , our customers — leading AI labs and enterprises — need precisely labeled, expert-curated data to train and evaluate their models. On the supply side , we work with a global network of 500,000+ skilled contributors across 100+ countries who perform the complex annotation, evaluation, and data-generation tasks that fuel AI progress. Product Managers at Scale sit at the intersection of these two sides, shaping the systems, tooling, and experiences that make this marketplace work at unprecedented quality and scale. We are hiring Product Managers across multiple teams within our GenAI organization. These roles span both d

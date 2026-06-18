@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7477025"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7477025
+
+---
+
 ## 원문
 
 Research Scientist - Gemini Personal Intelligence Mountain View, California, US At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know. About Us Our team drives the Personal Intelligence research behind Gemini, with a mission to make AI more personal, proactive, and context-aware. You will push the boundaries of Large Language Models (LLMs) to build the brain of the world’s most helpful personal assistant—one that securely integrates with use

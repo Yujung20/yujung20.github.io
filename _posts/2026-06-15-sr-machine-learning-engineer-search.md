@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364333"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364333
+
+---
+
 ## 원문
 
 인포시즈는 제조·반도체·플랜트·금융 등 다양한 산업의 데이터를 AI가 실제 운영과 의사결정에 활용할 수 있는 구조로 연결하는 Enterprise AI Infrastructure 기업입니다.

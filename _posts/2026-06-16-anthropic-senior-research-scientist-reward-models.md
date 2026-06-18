@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5024835008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5024835008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As a Senior Research Scientist on our Reward Models team, you'll lead research efforts to improve how we specify and learn human preferences at scale. Your work will directly shape how our models understand and optimize for what humans actually want — enabling Claude to be more useful, more reliable, and better aligned with human values. This role focuses on pushing the frontier of reward modeling for large language models. You'll develop novel architectures and training methodologies for RLHF, research new approaches to LLM-based evaluation and grading (including rubric-based methods), and investigate techniques to identify and mitigate r

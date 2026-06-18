@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5191226008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5191226008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role The Research Data Platform team builds the tools that Anthropic's researchers use every day to manage, query, and analyze the data that goes into training and evaluating frontier models. We power the internal applications researchers rely on to monitor RL runs, explore finetuning datasets, and understand what's happening inside their experiments. We're looking for engineers who love working directly with users and who excel at building data products — the pipelines that move data out of training runs into queryable storage, and the APIs, libraries, and services researchers use to manage and explore it. This role sits closer to the research

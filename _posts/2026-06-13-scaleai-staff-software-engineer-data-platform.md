@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4649903005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4649903005
+
+---
+
 ## 원문
 
 Software is eating the world, but AI is eating software. We live in unprecedented times – AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, personal shopper, travel guide, and therapist throughout life. As the world adjusts to this new reality, leading platform companies are scrambling to build LLMs at billion scale, while large enterprises figure out how to add it to their products. To make them safe, aligned and actually useful, these models need human evaluation and reinforcement learning through human feedback (RLHF) during pre-training, fine-tuning, and production evaluations. This is the main innovation that’s enabled ChatGPT to get such a large headstart among competition. At Scale, our products include the Generative AI Data Engine, SGP, Donovan, and others that power the most advanced LLMs and generative models in the world through world-class RLHF, human data generation, model evaluation, safety, and a

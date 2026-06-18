@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4704555005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4704555005
+
+---
+
 ## 원문
 
 Scale's Public Sector customer base is growing rapidly, and you will be on the front lines of machine learning (ML) operations to accelerate the development of artificial intelligence (AI) applications for the Department of Defense and other national security customers.&nbsp; As a Public Sector Operations Program Manager, you will act as the program manager for multiple projects on the Public Sector Computer Vision team, working cross-functionally with our Delivery and Engineering teams, and collaborating with a team of high performing operations managers and subject matter experts to drive operational efficiencies. You will have team and project-level ownership of the operations of our data labeling system and are responsible for delivering data on time and at a high level of quality across diverse data modalities and levels of clearance. All of this serves an ultimate goal of delivering outsize value in supporting our Public Sector customer’s AI / ML objectives.You will also help lea

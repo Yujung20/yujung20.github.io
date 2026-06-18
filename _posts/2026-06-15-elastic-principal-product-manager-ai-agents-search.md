@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://jobs.elastic.co/jobs?gh_jid=7995181&gh_jid=7995181"
 ---
 
+## 링크
+
+https://jobs.elastic.co/jobs?gh_jid=7995181&gh_jid=7995181
+
+---
+
 ## 원문
 
 Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. What is The Role Elastic, the Search AI Company, is looking for a Principal Product Manager to guide the vision, strategy, and execution for the Elastic Agent Builder. As organizations shift from traditional data retrieval to autonomous, agentic workflows, the Agent Builder serves as the critical context layer that enables users to make Agents faster, lower cost, an

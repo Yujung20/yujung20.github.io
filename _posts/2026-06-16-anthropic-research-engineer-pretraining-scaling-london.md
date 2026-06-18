@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4938436008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4938436008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Role: Anthropic's ML Performance and Scaling team trains our production pretrained models, work that directly shapes the company's future and our mission to build safe, beneficial AI systems. As a Research Engineer on this team, you'll ensure our frontier models train reliably, efficiently, and at scale. This is demanding, high-impact work that requires both deep technical expertise and a genuine passion for the craft of large-scale ML systems. This role lives at the boundary between research and engineering. You'll work across our entire production training stack: performance optimization, hardware debugging, experimental design, and launch co

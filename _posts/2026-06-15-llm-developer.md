@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/339059"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/339059
+
+---
+
 ## 원문
 
 씨어스테크놀로지는

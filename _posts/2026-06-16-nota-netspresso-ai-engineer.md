@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368178"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368178
+
+---
+
 ## 원문
 
 ? 우리 ​팀을 ​소개합니다.

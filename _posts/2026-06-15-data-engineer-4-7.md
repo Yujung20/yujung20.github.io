@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/366664"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/366664
+
+---
+
 ## 원문
 
 AX팀은 이런 ​일을 ​해요

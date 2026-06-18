@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5071132008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5071132008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As a Research Engineer on the Economic Research Data Platform team, you will design, build, and maintain critical infrastructure that powers Anthropic's research on AI's economic impact. You will work with data systems from across Anthropic, including our research tools for privacy-preserving analysis. The Economic Research team is part of the Anthropic Institute , and studies the economic implications of AI on individual, firm, and economy-wide outcomes. We build scalable systems to monitor AI usage patterns and directly measure the impact of AI adoption on real-world outcomes. We publish research and data, including the Anthropic Economi

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=7642856002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=7642856002
+
+---
+
 ## 원문
 
 Staff GenAI Research Scientist - Agents P-1214 At Databricks, we are obsessed with enabling data teams to solve the world’s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world’s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Databricks AI Research organization enables companies to develop AI models and agents using their own data, with technologies ranging from post-training open source LLMs to developing advanced multi-agent architectures. Databricks AI is committed to the belief that a company’s AI models and agents are just as valuable as any other core IP, and that high-quality AI should be available to all. Job Description&nbsp; As a Staff Research Scientist on the Enterprise Agents team, you will be responsible for keeping up with the latest developments in Agent Context, Information Retrieval, Knowledge Assistants, RAG, Embeddings

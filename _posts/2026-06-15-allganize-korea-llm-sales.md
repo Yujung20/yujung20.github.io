@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/365710"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/365710
+
+---
+
 ## 원문
 
 올거나이즈는 산업 특화 온프레미스 LLM 모델부터 Agent RAG, 노코드 LLM 앱 빌더 및 앱 마켓까지 LLM의 모든 것을 제공하는 LLM 올인원 솔루션 기업입니다. 

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5197529008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5197529008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As part of our growing Data Science and Analytics team, you'll play an instrumental role in Anthropic's mission of building safe and beneficial AI by driving data-informed decision making across the company. This role sits at the intersection of data science, developer experience, and AI tooling — and offers the unusual opportunity to study frontier AI usage from the inside, with the builders themselves as your users. You'll define how Anthropic understands and improves developer productivity — both through classic software engineering effectiveness measures and through the emerging challenge of understanding AI-augmented development workf

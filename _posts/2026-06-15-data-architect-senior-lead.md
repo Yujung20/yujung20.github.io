@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363625"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363625
+
+---
+
 ## 원문
 
 “Design-to-Manufacturing AI Platform”

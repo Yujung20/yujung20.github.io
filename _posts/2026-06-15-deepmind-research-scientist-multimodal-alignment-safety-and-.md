@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7680885"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7680885
+
+---
+
 ## 원문
 
 Snapshot We are seeking strong Research Scientists with expertise in AI research and experience in interdisciplinary sociotechnical modeling to join a multimodal safety research effort within Google DeepMind's Frontier AI unit. This role requires a passion for understanding and modeling the interactions between AI and society, a strong awareness of the AI alignment and safety landscape, and a penchant for developing novel ideas, methods, interfaces, and tools. This is a unique opportunity to contribute to impactful research and advance Google DeepMind's mission towards Artificial General Intelligence (AGI). About us Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence and ultimately achieve Artificial General Intelligence. We use our technologies for widespread public benefit and scientific discov

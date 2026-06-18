@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4413992005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4413992005
+
+---
+
 ## 원문
 
 Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Creating custom AI applications that will impact millions of citizens Generating high-quality training data for national LLMs Upskilling and advisory services to spread the impact of AI We are hiring Applied AI Engineers to build custom end-to-end AI applications for our public sector clients using the latest developments in the field of AI. You will also get the opportunity to develop and be part of creating custom datasets, evaluations, and fine-tuning these sophisticated models to maximize performance and apply on real world use cases with global reach.&nbsp; At Scale, we’re not just building AI solutions—we are building repeatable blocks to enable the public sector to transform their operations and better serve citizens through cutting-edge technology. If you’re ready to shape the future of AI in the public sec

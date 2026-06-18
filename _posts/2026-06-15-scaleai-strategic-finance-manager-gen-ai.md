@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4623533005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4623533005
+
+---
+
 ## 원문
 
 We are building out the Finance team to help make data-driven and financially sound decisions for Scale. The Finance team drives strategic, financial, and operational decisions by partnering with the leadership team to make critical decisions across Scale. We’re looking for a high-performing, all-rounded finance athlete to join our team and support the rapidly growing Generative AI (GenAI) business. You’ll collaborate closely with Product, Operations, Growth, and Go-to-Market leaders to bring financial rigor to decision-making, develop actionable insights that drive strategy, and build scalable systems as the business expands. This role is ideal for someone with 4-6 years of experience in a fast-paced, high-growth environment. Someone who thrives in ambiguity, can juggle multiple workstreams, and brings a mix of analytical rigor, business acumen, and strong execution. You will: Own and evolve part of the GenAI financial forecasting model, driving accuracy and insight across planning cy

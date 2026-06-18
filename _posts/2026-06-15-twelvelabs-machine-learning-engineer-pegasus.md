@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/355759"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/355759
+
+---
+
 ## 원문
 
 [Who we are]

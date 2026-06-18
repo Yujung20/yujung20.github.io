@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002
+
+---
+
 ## 원문
 
 FEQ427R62 At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. As a Solutions Architect for Strategic Accounts in the Benelux Field Engineering team, you will be an essential part of this mission, using your technical expertise to demonstrate how our Data Intelligence Platform can help customers solve their complex data challenges. You'll work with a collaborative, customer-focused team who values innovation and creativity, using your skills to create customised solutions to help our customers achieve their goals and guide their busi

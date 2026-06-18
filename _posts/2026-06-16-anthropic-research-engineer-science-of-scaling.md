@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5126127008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5126127008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Anthropic is seeking a Research Engineer/Scientist to join the Science of Scaling team, responsible for developing the next generation of large language models. In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems. You'll contribute across the entire stack, from low-level optimizations to high-level algorithm and experimental design, balancing research goals with practical engineering constraints. Responsibilities: Conduct research intro the science of converting compute into intelligence Independently lead small re

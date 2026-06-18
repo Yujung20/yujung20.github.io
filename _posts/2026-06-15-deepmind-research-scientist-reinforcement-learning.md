@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7716037"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7716037
+
+---
+
 ## 원문
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know. Snapshot We're looking for talented Research Scientists to push forward fundamental research and technology in Artificial Intelligence, as part of our interdisciplinary and collaborative Reinforcement Learning team. About Us DeepMind’s RL team is a long-standing and tight-knit team of collaborative scientists and engineers, led by Tom Schaul. We tackle large scale research challenges in 

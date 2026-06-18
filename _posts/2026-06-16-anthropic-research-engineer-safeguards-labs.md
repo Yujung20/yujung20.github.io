@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5191785008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5191785008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the team Safeguards Labs is a new team operating at the intersection of research and engineering, chartered to investigate novel safety methods that protect Claude and the people who use it. We prototype new approaches to safe models, usage safeguards, and production safety — pressure-testing ideas through offline analysis and subsets of traffic before they graduate into production systems run by our partner Safeguards teams. Our work overlaps closely with account abuse, model behavior safeguards, and other safeguard subteams, and we serve as a research arm that can take on ambitious, ambiguous problems and turn them into deployed defenses. About t

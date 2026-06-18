@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002
+
+---
+
 ## 원문
 
 RDQ327R178 At Databricks, we design tools that make complex data workflows intuitive and powerful. Our mission is to simplify how data is connected, understood, and activated so that organizations can turn information into business outcomes. Designers at Databricks blend strong visual craft with systems thinking, shaping products that support some of the most advanced data teams in the world. &nbsp; We're hiring a Staff Product Designer to help build a new product category at Databricks. You will help shape agent-driven experiences that make the power of the Lakehouse accessible to a broader set of users.&nbsp; This will be a true 0-to-1 environment, combining the excitement of a startup with the resources of a tech leader like Databricks. The impact you will have Drive key product and design initiatives within a strategic new product area at Databricks, helping organizations activate and operationalize their data at scale. Define a new generation of agent-driven workflows that help us

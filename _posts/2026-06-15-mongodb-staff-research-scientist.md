@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7956670"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7956670
+
+---
+
 ## 원문
 
 About Voyage AI Team at MongoDB Voyage AI team in MongoDB is building a best-in-class, general-purpose, domain-specific, and fine-tuned embedding models and rerankers to enable accurate, efficient unstructured data search and retrieval for RAG, recommendation, semantic search, and more. It is backed by a strong team of AI researchers from Stanford, MIT, Berkeley, Princeton, and CMU, who have conducted over five years of cutting-edge research on training embedding models. Voyage AI was acquired by MongoDB recently, and is now integrating the SOTA embedding models with MongoDB's data platform to create powerful end-to-end solutions. Position Overview We are seeking a Staff Research Scientist to join our team and contribute to the development of next-generation AI models. This position offers a unique opportunity to work on challenging problems at the intersection of machine learning research and practical deployment of large neural networks. This role can be based out of our Palo Alto of

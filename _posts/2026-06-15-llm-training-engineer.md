@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367813"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367813
+
+---
+
 ## 원문
 
 차세대 대규모 언어 모델 학습 시스템을 함께 구축할 LLM Training Engineer를 찾고 있습니다.

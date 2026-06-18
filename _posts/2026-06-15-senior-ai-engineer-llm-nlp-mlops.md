@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/353598"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/353598
+
+---
+
 ## 원문
 
 [검색의 한계를 넘어 누구나 기술을 읽을 수 있도록, No.1 Al Native IP Intelligence Platform]

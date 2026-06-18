@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4610158008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4610158008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role: You want to build and run elegant and thorough machine learning experiments to help us understand and steer the behavior of powerful AI systems. You care about making AI helpful, honest, and harmless, and are interested in the ways that this could be challenging in the context of human-level capabilities. You could describe yourself as both a scientist and an engineer. As a Research Engineer on Alignment Science, you'll contribute to exploratory experimental research on AI safety, with a focus on risks from powerful future systems (like those we would designate as ASL-3 or ASL-4 under our&nbsp; Responsible Scaling Policy ), often in colla

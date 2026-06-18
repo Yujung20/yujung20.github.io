@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368726"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368726
+
+---
+
 ## 원문
 
 회사 소개

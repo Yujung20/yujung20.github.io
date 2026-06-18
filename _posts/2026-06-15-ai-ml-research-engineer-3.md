@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/365261"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/365261
+
+---
+
 ## 원문
 
 딥테크팀은 어떤 일을 하나요?

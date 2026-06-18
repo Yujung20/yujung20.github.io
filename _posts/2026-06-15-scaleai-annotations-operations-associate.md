@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4655244005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4655244005
+
+---
+
 ## 원문
 
 As a member of our operations team, you will be accountable for driving revenue by ensuring that Scale AI meets customer commitments in a timely manner while maintaining the highest quality standards. You will manage our supply operation funnel by building and running solutions, tools, and processes by working with a cross-functional team including Customer Operations, Product Operations, Product Managers, and many others. You will be solving problems no one has solved before, and you will need to be relentless in driving stellar results, running pilots, tests, and experiments. You’ll come up with creative solutions to bottlenecks. The blend of operations and ownership of our most important outcomes make this a unique and exciting role at the heart of Scale’s daily operations.The ideal candidate is scrappy, analytical, empathetic, outcome focused, and above all someone who drives and inspires results.&nbsp; You will: Build and drive some of our most critical operational processes Own t

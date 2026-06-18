@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002
+
+---
+
 ## 원문
 
 RDQ226R497 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to tackle technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.&nbsp; You will be a Sr Product Manager for Unity Catalog ( https://databricks.com/product/unity-catalog ). Unity Catalog is the metadata and governance foundation for the Lakehouse, providing not only fine grained security and governance capabilities, but also performance and productivity capabilities such as lineage, search, discovery, aud

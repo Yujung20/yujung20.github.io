@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5254364008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5254364008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the RL Teams Our Reinforcement Learning teams play a critical role in advancing our AI systems. We've contributed to all Claude models, with significant impacts on the autonomy and coding capabilities of our latest Claude models. Our work spans several key areas: Developing systems that enable models to use computers effectively Advancing code generation through reinforcement learning Pioneering fundamental RL research for large language models Building scalable RL infrastructure and training methodologies Enhancing model reasoning capabilities We collaborate closely with Anthropic's alignment and frontier red teams to ensure our systems are both c

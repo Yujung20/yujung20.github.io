@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/225016"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/225016
+
+---
+
 ## 원문
 
 함께하게 될 ​FDE본부를 ​소개합니다 ​!

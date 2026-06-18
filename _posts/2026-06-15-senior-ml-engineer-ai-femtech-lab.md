@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/366450"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/366450
+
+---
+
 ## 원문
 
 [국내 유일 체외진단기술 기반 AI Femtech 기업, 베스펙스]

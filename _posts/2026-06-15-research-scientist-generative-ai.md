@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367552"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367552
+
+---
+
 ## 원문
 
 •  (주)에스아이에이는 지구 관측을 통해 현명한 결정을 위한 가치를 제공하는, 인공지능 기반 위성/항공 영상 분석 기업입니다. 

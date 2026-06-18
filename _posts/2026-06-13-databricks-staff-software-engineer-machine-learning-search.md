@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002
+
+---
+
 ## 원문
 
 P-1408 The Applied AI team at Databricks sits at the forefront of advancing AI/ML-powered products . Databricks’ customers are continuously creating new assets (tables, notebooks, dashboards, datarooms, pipelines, sql queries, ml models etc.) on the platform. Some of them can have hundreds of millions of assets. Finding an asset is a critical user journey for Databricks’ customers which helps them accomplish their tasks.&nbsp; As our Search product continues to evolve, we are seeking a Staff Engineer to lead enhancements to our Search Quality. In 2025, we will focus on enhancing search ranking, improving query understanding, building robust evals and growing the coverage of assets to enable seamless search at scale. &nbsp; Key Responsibilities Drive the development and deployment of ML based search and discovery relevance models and systems integrated with Databricks' products and services.&nbsp; Design and implement automated ML and NLP pipelines for data preprocessing, query understa

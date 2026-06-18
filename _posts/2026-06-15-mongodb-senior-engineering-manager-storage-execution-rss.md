@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7723638"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7723638
+
+---
+
 ## 원문
 
 We are hiring a Senior Engineering Manager to manage the largely New York-based Storage Execution team. This is a hands-on leadership role for someone who is obsessed with customer success, takes the responsibility of durably storing customer data seriously, and has strong empathy for both their team and our users. About the Storage Execution team The Storage Execution team sits at the heart of MongoDB’s Replicated Storage Services (RSS). We own the core transactional read/write path on each node, across both today’s storage engine and a next‑generation cloud-native storage architecture. Our work determines how correct and performant MongoDB is for customers running mission-critical production workloads. The team’s responsibilities include: Defining and maintaining the internal collection and index APIs used by Replication, Query and Catalog modules, and commands for local reads and writes, plus the transaction and durability primitives that govern visibility, conflict resolution and c

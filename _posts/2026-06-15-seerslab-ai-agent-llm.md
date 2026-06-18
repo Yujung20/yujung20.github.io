@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/343179"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/343179
+
+---
+
 ## 원문
 
 SeersLab | AI로 미래를 그리는 기술 혁신 기업

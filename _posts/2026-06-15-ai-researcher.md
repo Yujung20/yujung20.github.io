@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367212"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367212
+
+---
+
 ## 원문
 
 ROAI는 피지컬 AI로 생산의 방식을 혁신합니다.

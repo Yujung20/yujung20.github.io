@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7882918"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7882918
+
+---
+
 ## 원문
 
 Description We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did I ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we’re collectively disrupting the multi-billion-dollar commerce industry. We are one of the fastest-growing retail companies that established an unparalleled reputation for being a leading and reliable force in the commerce industry. We are proud to have the best of both worlds — a startup culture with the resources of a large global public company. This fuels us to continue our growth and launch new services at the speed we have been since our inception. At Coupang, every day is filled with the excitement of building, you will see yourself, your colleagues, your team, and the company grow every day. Our mission to build the future of commerce is real. We push the boundaries of what’s possible to solve problems and challenge traditional tradeoffs. Join Coupang

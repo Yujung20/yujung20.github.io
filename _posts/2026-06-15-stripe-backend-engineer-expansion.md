@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7775622"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7775622
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Web Presence and Platform is organized into two pillars, each of which is grouped into pods that focus on the central tenets of the Stripe public mission. The Presence pillar creates industry-leading designs for Stripe front door surfaces, educating customers about the power of our platform, sharing ideas and expertise with the public, and driving adoption. The Platform pillar builds the internal machinery that powers these surfaces, and is responsible for maki

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/singlestore/jobs/7956719"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/singlestore/jobs/7956719
+
+---
+
 ## 원문
 
 SingleStore is building the real-time data platform powering next-generation AI and enterprise applications. We are looking for a Staff Product Manager to lead key areas of our cloud services platform, helping enterprises deploy, operate, and scale mission-critical AI and data workloads globally. In this role, you will shape the roadmap for core cloud platform capabilities spanning infrastructure, reliability, scalability, security, and developer experience. You’ll partner closely with engineering, design, sales, and customers to define the future of cloud-native data infrastructure. Role and Responsibilities Define and drive the roadmap for SingleStore’s cloud data platform Identify opportunities to improve scalability, reliability, security, and developer experience across the platform Partner with engineering and design to deliver high-impact cloud platform capabilities for enterprise customers Translate customer needs, market trends, and competitive insights into clear product stra

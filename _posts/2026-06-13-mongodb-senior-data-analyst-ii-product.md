@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7846877"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7846877
+
+---
+
 ## 원문
 
 The worldwide data management software market is massive (IDC forecasts it to be $138 billion by 2026!). At MongoDB we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity. The Senior Product Analyst II will play a meaningful role in further developing our rapidly growing Data Analytics function. Partnering with stakeholders across Product Management, Engineering and Analytics teams, as well as with other teams around the business, this role will surface key insights to drive business decision making. This role requires someone with strong analytical and technical skills, and who is comfortable partnering with stakeholders at all levels of the organization and across multiple functional areas in a fast-paced, challenging environment. We are looking to speak to candidates who 

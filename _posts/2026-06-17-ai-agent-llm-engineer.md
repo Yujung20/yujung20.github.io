@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368660"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368660
+
+---
+
 ## 원문
 
 심플랫폼은 IoT 플랫폼, Industrial AI 개발 & 서비스 전문 회사입니다.

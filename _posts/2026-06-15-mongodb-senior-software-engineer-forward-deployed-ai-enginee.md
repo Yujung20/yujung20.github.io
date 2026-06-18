@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7590735"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7590735
+
+---
+
 ## 원문
 
 MongoDB is looking for an outstanding person to join our newly created Forward Deployed Engineering team and take on a key role in our extended R&amp;D organization. Forward Deployed Engineering is linking the work of teams engaged on application modernization roles with our Product and Engineering teams. We are looking to speak to candidates who are based in Dublin for our hybrid working model. Many organizations have built up large estates of legacy applications. Lack of scalability and resilience, long development times, operating cost, and inability to run on cloud are common issues with these applications. To address these issues, organizations are engaging in large transformational Application Modernisation programs. MongoDB is recognized as the developer data platform of choice for transactional systems that provide the best scalability, resiliency and developer experience in the cloud as well as on premises. Organizations are continuously migrating workloads from these legacy a

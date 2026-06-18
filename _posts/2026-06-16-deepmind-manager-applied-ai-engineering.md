@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7106323"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7106323
+
+---
+
 ## 원문
 
 Snapshot We are seeking a Manager, Applied AI to lead the development and deployment of novel applications, leveraging Google’s generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for a manager with a strong track record of building and shipping software, and leading engineering teams, ideally with some experience in early-stage environments, where you may have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact, and develop strong relationships with research teams. About us Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re

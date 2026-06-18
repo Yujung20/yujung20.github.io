@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/356049"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/356049
+
+---
+
 ## 원문
 
 [Babechat] LLM 프로덕트 엔지니어를 찾습니다

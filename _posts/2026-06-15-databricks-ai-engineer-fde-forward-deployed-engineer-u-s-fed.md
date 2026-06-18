@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002
+
+---
+
 ## 원문
 
 PLEASE NOTE : Due to federal contract requirements and client site access obligations, U.S. citizenship and eligibility for a U.S. government secret clearance are required to access classified information. The position is based in the Washington, D.C., Maryland, or Virginia metropolitan area and includes periodic on‑site work and client collaboration. Candidates with an active Secret or higher clearance are strongly encouraged to apply. The AI Forward Deployed Engineering (AI FDE) team is a highly specialized customer-facing AI team at Databricks. We deliver professional services engagements to help our customers build and productionize first-of-its-kind AI applications. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations, as well as support internal subject matter expert (SME) teams. We view our team as an ensemble: we look for individuals with strong, unique specializations to improve the overall s

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4618046005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4618046005
+
+---
+
 ## 원문
 
 Scale's LLM post-training platform team builds our internal distributed framework for large language model training. The platform powers MLEs, researchers, data scientists, and operators for fast and automatic training and evaluation of LLMs. It also serves as the underlying training framework for the data quality evaluation pipeline. Scale is uniquely positioned at the heart of the field of AI as an indispensable provider of training and evaluation data and end-to-end solutions for the ML lifecycle. You will work closely with Scale’s ML teams and researchers to build the foundation platform which supports all our ML research and development works. You will be building and optimizing the platform to enable our next generation LLM training, inference and data curation. If you are excited about shaping the future AI via fundamental innovations, we would love to hear from you! You will: Build, profile and optimize our training and inference framework. Collaborate with ML and research team

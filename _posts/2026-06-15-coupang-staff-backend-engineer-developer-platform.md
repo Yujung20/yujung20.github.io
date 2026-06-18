@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7920689"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7920689
+
+---
+
 ## 원문
 
 Company Introduction We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did I ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we are collectively disrupting the multi-billion-dollar commerce industry from the ground up and establishing an unparalleled reputation for being leading and reliable force in South Korean commerce. We are proud to have the best of both worlds — a startup culture with the resources of a large global public company. This fuels us to continue our growth and launch new services at the speed we have been since our inception. We are all entrepreneurs surrounded by opportunities to drive new initiatives and innovations. At our core, we are bold and ambitious people that like to get our hands dirty and make a hands-on impact. At Coupang, you will see yourself, your colleagues, your team, and the company grow every day. Our mission to build the future of com

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367361"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367361
+
+---
+
 ## 원문
 
 KB핀테크를 소개합니다

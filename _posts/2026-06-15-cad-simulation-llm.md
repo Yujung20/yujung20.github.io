@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/316484"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/316484
+
+---
+
 ## 원문
 
 • 제조업 설계 지원을 위한 시뮬레이션 자동화 SaaS 플랫폼 개발 프로젝트입니다.

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002
+
+---
+
 ## 원문
 
 CSQ327R39 We’re hiring for multiple roles within our Professional Services team. Depending on experience and scope, this position may be offered as a Senior Solutions Consultant or a Resident Solutions Architect. You may know this role as a Big Data Solutions Architect, Analytics Architect, Data Platform Architect, or Technical Consultant. The final title will align to your experience, technical depth, and customer-facing ownership. As a Data Platform Solutions Architect (Internal Title - Resident Solutions Architect) on our Professional Services team for the Emerging Enterprise &amp; Digital Natives business in EMEA, you will work with clients on short to medium-term customer engagements on their big data challenges using the Databricks platform. You will provide data engineering, data science, and cloud technology projects which require integrating with client systems, training, and other technical tasks to help customers to get most value out of their data. RSAs are billable and kno

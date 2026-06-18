@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/365648"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/365648
+
+---
+
 ## 원문
 
 안녕하세요, 리텐틱스 입니다!

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/345522"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/345522
+
+---
+
 ## 원문
 
 [스마트마인드AI 소개]

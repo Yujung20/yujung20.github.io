@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4534631005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4534631005
+
+---
+
 ## 원문
 
 Scale’s ML platform (RLXF) team builds our internal distributed framework for large language model training and inference. The platform has been powering MLEs, researchers, data scientists and operators for fast and automatic training and evaluation of LLM's, as well as evaluation of data quality. Scale is uniquely positioned at the heart of the field of AI as an indispensable provider of training and evaluation data and end-to-end solutions for the ML lifecycle. You will work closely across Scale’s ML teams and researchers to build the foundation platform that supports all our ML research and development. You will be building and optimizing the platform to enable our next generation of LLM training, inference and data curation. If you are excited about shaping the future AI via fundamental innovations, we would love to hear from you! You will: Build, profile and optimize our training and inference framework Collaborate with ML teams to accelerate their research and development and ena

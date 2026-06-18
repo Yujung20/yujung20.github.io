@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5125387008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5125387008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As an Analytics Data Engineering Manager focused on Product, you will build and lead the analytics engineering team responsible for creating the data foundations that enable data-driven decision making across Anthropic’s Product organization.&nbsp; You will oversee the development of scalable data solutions for Product pillars – including Consumer, Claude Code, Enterprise &amp; Verticals, Growth, Platform Product – managing a team of analytics engineers and working closely with stakeholders across Data Science, Product, and Engineering to ensure teams have access to reliable, accurate metrics that can scale with our company’s growth. In th

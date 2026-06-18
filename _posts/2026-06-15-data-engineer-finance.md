@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368076"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368076
+
+---
+
 ## 원문
 
 [합류하게 될 팀에 대해 알려드려요]

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=6688529"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=6688529
+
+---
+
 ## 원문
 
 The MongoDB Next-Gen Platform Team within Replicated Storage Services is building MongoDB’s next-generation cloud storage and replication platform, modernizing the storage layer and architecture into a more cloud-native design, while leveraging the best of our existing technology. We’re currently working on improving our API and interface boundaries so that we can meet the performance and correctness needs of the world’s most demanding enterprises while enabling new, more efficient data storage and retrieval patterns. Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to work on a collaborative team that applies distributed systems fundamentals to deliver core features of a popular database, join us! Let’s change what’s possible for application developers, system architects, and database operators. This role can be based out of our NYC headquarters, office hub locations, or remotely in the United States and Canada. Candidate Profile Minimum 5 

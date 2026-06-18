@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363422"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363422
+
+---
+
 ## 원문
 
 ? 선행기술팀 소개

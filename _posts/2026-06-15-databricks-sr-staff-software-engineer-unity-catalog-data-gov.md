@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002
+
+---
+
 ## 원문
 
 RDQ126R47 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Databricks Unity Catalog is the industry’s only unified and open governance solution for data and AI, built into the Databricks Data Intelligence Platform. It enables data scientists, analysts, and engineers to securely discover, access, and collaborate on trusted data and AI assets across platforms. Unity Catalog enhances productivity through AI-powered governance, simplifying compliance while maximizing interoperability. We are seeking a Senior Staff Software Engineer to lead the technical direction and development of Unity Catalog’s enterprise-grade governance capabilities. In this role, you will drive the ro

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7182617"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7182617
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world's largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team • Core Infrastructure—We're the home for Stripe's critical tier0 infrastructure systems (Compute, Networking, DocumentDB, Distributed Caching and high-assurance engineering). We build the foundational platform for Stripe products and services to allow them to operate at scale. We drive reliability, availability, efficiency, and scalability of these systems. • Developer Infrastructure—We're responsible for the productivity of all developers at Stripe. Ensure

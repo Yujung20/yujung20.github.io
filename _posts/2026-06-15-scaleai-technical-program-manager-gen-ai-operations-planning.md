@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4693449005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4693449005
+
+---
+
 ## 원문
 
 Role summary Scale’s Operations Planning Team sits at the intersection of Engagement Management (EM), GenAI Delivery, GTM, and Growth Ops. The Planning TPM reduces friction between customer requirements and delivery by centralizing planning, standardizing reporting, and driving consistent process execution across accounts. As a TPM on Planning you will own program-level planning and systems workstreams that translate demand into reliable production plans, validate staffing, and ensure opportunities move through ingest accurately. This role combines program management, operational rigor, analytics literacy, and strong stakeholder management, with the goal of making account planning predictable, auditable and scalable. This is a role designed to build deep account knowledge: each Planning TPM will ultimately be assigned to support 1–2 priority accounts to develop the context and relationships required to drive lasting operational improvements and more accurate planning and forecasting. &

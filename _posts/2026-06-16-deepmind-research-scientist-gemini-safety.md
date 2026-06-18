@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7421111"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7421111
+
+---
+
 ## 원문
 
 Snapshot Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority. The Gemini Safety team is accountable for the safety and fairness behavior of GDM’s latest Gemini models. The role of the Research Scientist / Research Engineer will be to apply and develop data and algorithmic cutting edge solutions to advance GDM’s latest user-facing models. The workstyle is fast paced, and highly collaborative. The team has a strong culture of support, dedication and collaboration. About Us Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine lear

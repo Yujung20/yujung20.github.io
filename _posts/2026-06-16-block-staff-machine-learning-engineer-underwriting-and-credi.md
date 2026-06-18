@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5198104008?gh_jid=5198104008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5198104008?gh_jid=5198104008
+
+---
+
 ## 원문
 
 Block builds technology to increase access to the global economy. Across our ecosystem, including Square and Cash App, we create tools that help businesses run and grow, and individuals move, manage, and grow their money with confidence. Square empowers sellers of all sizes with integrated, omnichannel tools to accept payments, manage operations, access financial services, and reach customers across online and in-person channels. Cash App complements this by providing a fast, accessible financial platform for millions of people to send, spend, save, invest, and borrow, helping redefine how individuals interact with money.Operating at massive scale across both ecosystems means trust and safety are foundational. Our teams build systems that protect real people and businesses, safeguard financial activity, and ensure our products remain reliable, secure, and easy to use. Block is a global, distributed company with a culture rooted in ownership, creativity, and impact. Whether supporting s

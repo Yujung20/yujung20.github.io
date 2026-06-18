@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363889"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363889
+
+---
+
 ## 원문
 
 [콕스웨이브와 Gen-AI Transformation의 미래]

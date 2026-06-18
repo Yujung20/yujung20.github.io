@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7461811"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7461811
+
+---
+
 ## 원문
 
 About Us Our team operates at the frontier of modern recommender systems. With a proven track record of innovating and deploying novel deep learning algorithms and systems at scale, we are currently focused on building the next-gen Large Recommendation Models&nbsp;by bridging the gap between LLMs and complex behavioral signals. Our research explores user &amp; item tokenizations, continued pre-training, and advanced fine-tuning techniques to build recommendations-native foundation models. Our mission is to transform the landscape of recommendation systems using the most advanced AI technologies, delivering massive impact across Google’s flagship products. The Role As a Research Scientist, you will have the opportunity to build new paradigms using Large Language Models, harnessing the advanced content understanding, long-context, and reasoning capabilities. You will play a pivotal role in exploring how to integrate data from recommendation domains into foundation models, enabling new ca

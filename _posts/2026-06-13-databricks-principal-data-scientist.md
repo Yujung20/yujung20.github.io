@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002
+
+---
+
 ## 원문
 
 RDQ427R169 While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations. Databricks is looking for a Principal Data Scientist to serve as the statistical voice of the Data Science organization. This person will make Databricks smarter and more data-driven at the highest levels of leadership — translating the full power of data science into clear, actionable narratives for our CEO, C-suite, and Board of Directors. Our vision is simple: data drives every Databricks decision and action. To get there, we need a world-class statistician and communicator — someone who can bridge the gap between deep analytical rigor and executive decision-making. This is a pure IC role with company-wide influence: no direct reports, maximum leverage. Databricks was founded in 2013 by the original creators of Apache Spark, Delta Lake, and MLflow. We built the Databricks Data Intelligence Platform to help organizations unify their data, analytics, a

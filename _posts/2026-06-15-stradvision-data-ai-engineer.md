@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364756"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364756
+
+---
+
 ## 원문
 
 이 직무는 ​STRADVISION 서울 오피스에서 근무하는 포지션입니다.

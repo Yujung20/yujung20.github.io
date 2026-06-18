@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4625344005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4625344005
+
+---
+
 ## 원문
 
 AI is becoming vitally important in every function of our society. At Scale, our mission is to accelerate the development of AI applications. For 9 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including generative AI, defense applications, and autonomous vehicles. With our recent investment from Meta, we are doubling down on building out state of the art post-training algorithms to reach the performance necessary for complex agents in enterprises around the world.&nbsp; The Enterprise ML Research Lab works on the front lines of this AI revolution. We are working on an arsenal of proprietary research, tools, and resources that serve all of our enterprise clients. As an Agent MLRE, you will be working on applying our Agent RL Training + Building algorithms to real life enterprise datasets across our clients + benchmarks. This will involve creating best-in-class Agents that achieve state of the art results through a combination of p

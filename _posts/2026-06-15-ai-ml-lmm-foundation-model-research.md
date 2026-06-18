@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/358959"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/358959
+
+---
+
 ## 원문
 
 비개발자도 자연어로 쉽게 AI Agent를 생성할 수 있고, 목적에 맞게 커스텀한 AI Agent를 활용해 업무를 효율화합니다

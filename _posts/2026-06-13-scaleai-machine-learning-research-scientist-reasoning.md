@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4605596005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4605596005
+
+---
+
 ## 원문
 
 About Scale At Scale AI, our mission is to accelerate the development of AI applications. For 8 years, Scale has been the leading AI data foundry, fueling the most exciting advancements in AI, including generative AI, defense applications, and autonomous vehicles. With our recent Series F round, we’re amplifying access to high-quality data to drive progress toward Artificial General Intelligence (AGI). Building on our history of model evaluation with enterprise and government customers, we are expanding our capabilities to set new standards for both public and private evaluations. About This Role This role operates at the forefront of AI research and real-world implementation, with a strong focus on reasoning within large language models (LLMs). The ideal candidate will study the data types critical for advancing LLM-based agents, including browser and software engineering (SWE) agents. You will play a key role in shaping Scale’s data strategy by identifying the most effective data sou

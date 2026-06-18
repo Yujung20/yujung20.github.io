@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4675684005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4675684005
+
+---
+
 ## 원문
 
 Scale Labs, Research Scientist — Agent Robustness As the leading data and evaluation partner for frontier AI companies, Scale plays an integral role in understanding the capabilities and safeguarding AI models and systems. Building on this expertise, Scale Labs has launched a new team focused on policy research, to bridge the gap between AI research and global policymakers to make informed, scientific decisions about AI risks and capabilities. Our research tackles the hardest problems in agent robustness, AI control protocols, and AI risk evaluations to help governments, industry, and the public understand and mitigate AI risk while maximizing AI adoption. This team collaborates broadly across industry, the public sector, and academia and regularly publishes our findings. We are actively seeking talented researchers to join us in shaping this vision. As a Research Scientist working on Agent Robustness you will work on the fundamental challenges of building AI agents that are safe and a

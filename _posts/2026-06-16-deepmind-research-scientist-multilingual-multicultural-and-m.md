@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7672015"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7672015
+
+---
+
 ## 원문
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know. Snapshot We are seeking highly motivated and innovative Research Scientists to join our team in Tokyo, focused on advancing the state-of-the-art in multilingual, multicultural, and multimodal large language models (LLMs).&nbsp; You will conduct cutting-edge research on Gemini, particularly in the multilingual, multicultural, and multimodal domain (speech, vision, and text), with a dire

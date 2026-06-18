@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/237208"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/237208
+
+---
+
 ## 원문
 
 업스테이지는 AI 기술을 활용하여 비즈니스 문제를 해결하는 데 주력하고 있습니다. “Making AI Beneficial” 이라는 비전과 “Building intelligence for the future of work” 라는 미션을 바탕으로, 단순한 업무 자동화를 넘어서 복잡한 의사결정 지원 및 비용 절감을 통해 기업의 생산성을 증진시킬 수 있는 AI 제품과 솔루션을 제공합니다. 이를 통해 우리는 기업들이 업무 처리 방식을 혁신하고 더욱 효율적으로 성장할 수 있도록 지원합니다.

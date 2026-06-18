@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/358406"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/358406
+
+---
+
 ## 원문
 
 ASCEND는 글로벌 매크로 데이터와 시장 데이터를 기반으로, 리서치 생성·검증·리포팅 과정을 자동화하는 AI 기반 금융 리서치 플랫폼을 개발하고 있습니다.

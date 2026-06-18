@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002
+
+---
+
 ## 원문
 
 P-8 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Data Engineering is foundational and among the largest scale workloads on the Databrick Data Intelligence Platform. We are reinventing Data Engineering with Lakeflow - a unified product and experience for simple data ingestion, declarative data transformation, and real-time streaming. In this role, you will lead product management for a core Lakeflow product area. You will own and drive all aspects of product management including vision, strategy, roadmap, execution, and go-to-marketing. In addition, you will partner closely with various Databricks product teams to enable Data Engineering for the overall Databrick pro

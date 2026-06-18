@@ -9,6 +9,12 @@ source: "lever"
 link: "https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed"
 ---
 
+## 링크
+
+https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed
+
+---
+
 ## 원문
 
 About Mistral 

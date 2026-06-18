@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7761694"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7761694
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Product Security Data Platforms team is a newly established engineering team within Stripe Security. Our mission is to build the foundational infrastructure that provides our users with unprecedented visibility into the security posture of their Stripe integration. While Stripe is renowned for industry-leading payment protection, we are expanding our focus to provide a comprehensive security telemetry platform that helps businesses protect their entire digi

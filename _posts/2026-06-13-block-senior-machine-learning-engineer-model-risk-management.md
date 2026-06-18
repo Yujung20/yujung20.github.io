@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5198097008?gh_jid=5198097008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5198097008?gh_jid=5198097008
+
+---
+
 ## 원문
 
 Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.&nbsp;Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us. The Role Block lends, moves money, and screens for financial crime at enormous scale, and one bad model can mean millions in credit losses, suspicious activity that goes unreported, or a fair lending violation. Model Risk Management is the independent function that decides whether a model is sound enough to put in front of customers and r

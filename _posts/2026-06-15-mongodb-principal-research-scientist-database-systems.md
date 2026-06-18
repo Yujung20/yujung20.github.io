@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=6819978"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=6819978
+
+---
+
 ## 원문
 
 The mission of MongoDB Research is to advance the state of the art in database systems by conducting fundamental and applied research that directly impacts MongoDB's products. Our goal is to foster innovation that benefits MongoDB by addressing critical challenges in data management, performance optimization, security, scalability, and usability. Through collaboration, publication, and active engagement with leading research institutions, we strive to shape the future of database technology and ensure MongoDB remains at the forefront of innovation. We seek an exceptional researcher specializing in database systems with particular expertise in database architecture, including query optimization, storage engines, indexing, and multicore processing. The ideal candidate will demonstrate a strong track record in designing and implementing highly performant database systems. This role can be in-office, flexible, or based remotely in North America. Responsibilities: Conduct innovative researc

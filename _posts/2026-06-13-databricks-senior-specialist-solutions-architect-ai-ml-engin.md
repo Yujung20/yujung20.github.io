@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002
+
+---
+
 ## 원문
 
 FEQ327R156 Mission&nbsp; As a Sr Specialist Solutions Architect (SSA) - ML &amp; AI Engineer, you will be the trusted technical ML &amp; AI expert to both Databricks customers and the Field Engineering organization. You will work with Solution Architects to guide enterprise and strategic customers in architecting production-grade ML &amp; AI applications on Databricks, while aligning their technical roadmap with the continually evolving Databricks Data Intelligence Platform. You will continue to strengthen your technical skills through applying cutting edge technologies in GenAI, MLOps, and ML more broadly, expanding your impact through mentorship, and establishing yourself as an AI thought leader. The impact you will have: Architect production level ML &amp; AI workloads for customers using our unified platform, including agents, end-to-end ML pipelines, training/inference optimization, integration with cloud-native services, MLOps, etc.&nbsp;&nbsp; Serve as trusted practitioner for e

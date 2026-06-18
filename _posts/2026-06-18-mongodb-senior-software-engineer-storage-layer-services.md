@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=7947560"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=7947560
+
+---
+
 ## 원문
 
 MongoDB’s Storage Layer Services (SLS) team is re-architecting the MongoDB cloud storage layer and sits at the heart of our next-generation cloud storage architecture. This relatively new team is building performant, multi-tenant distributed storage services that both enhance today’s Atlas storage stack and enable more customer workloads to run more efficiently. We are looking for a talented Senior Software Engineer to join our team as we execute on a multi-year roadmap and prepare to launch and rapidly scale services that handle petabytes of data. Come do some of the most interesting work of your career as we Think Big and Go Far for our customers! This role can be based out of our New York City office (hybrid working model) or remotely in the North America region. What you’ll do Design, build, and operate control plane services powering an elastic and multi-tenant storage layer for thousands of database instances. Solve problems around maintaining high availability and performance du

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002
+
+---
+
 ## 원문
 
 P-984 Founded in late 2020 by a small group of machine learning engineers and researchers, Mosaic AI enables companies to securely fine-tune, train and deploy custom AI models on their own data, for maximum security and control. Compatible with all major cloud providers, the Mosaic AI platform provides maximum flexibility for AI development. Introduced in 2023, Mosaic AI’s pretrained transformer models have established a new standard for open source, commercially usable LLMs and have been downloaded over 3 million times. Mosaic AI is committed to the belief that a company’s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Now part of Databricks since July 2023, we are passionate about enabling our customers to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI pl

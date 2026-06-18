@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7640947"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7640947
+
+---
+
 ## 원문
 
 Snapshot Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority. About Us The Agents team at Google DeepMind India is driven by the mission of developing foundational capabilities in Large Models towards realizing AGI. We focus on uncovering emergent agentic behaviors through novel reinforcement learning algorithms run at scale.&nbsp;&nbsp; We also apply our research advances to Gemini and critical product launches in Google, touching the lives of hundreds of millions of users, and we are looking forward to doing more! We are seeking a highly motivated and innovative Research Scientist to join our team in Bangalore, f

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4655240005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4655240005
+
+---
+
 ## 원문
 
 Scale AI sits at the forefront of enabling machine learning for advanced robotics systems. As an Operations Program Manager focused on data creation for robotics models, you will design and execute the solutions, tools, and processes that power high-quality training data at scale. You’ll ensure precise, timely delivery of datasets that drive perception, manipulation, and autonomous decision-making in robotic platforms. With rapid growth, new customer onboarding, and continual product innovation, we face both strategic questions and hands-on operational challenges—your contributions will be key to solving them. You will be part of a highly motivated team of operators and collaborators who will ensure steady delivery and customer satisfaction. You are relentless in driving stellar results, running pilots, tests, and experiments, then handing over new designs to a team of skilled operators. The blend of operations, process improvement, and cross-functional leadership make this a unique an

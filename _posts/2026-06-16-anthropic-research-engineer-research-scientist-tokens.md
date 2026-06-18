@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4951814008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4951814008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. You want to build large scale ML systems from the ground up. You care about making safe, steerable, trustworthy systems. As a Research Engineer, you'll touch all parts of our code and infrastructure, whether that's making the cluster more reliable for our big jobs, improving throughput and efficiency, running and designing scientific experiments, or improving our dev tooling. You're excited to write code when you understand the research context and more broadly why it's important. &nbsp; Note: This is an "evergreen" role that we keep open on an ongoing basis. We receive many applications for this position, and you may not hear back from us directly if we

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4613592008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4613592008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Anthropic's production models undergo sophisticated post-training processes to enhance their capabilities, alignment, and safety. As a Research Engineer on our Post-Training team, you'll train our base models through the complete post-training stack to deliver the production Claude models that users interact with. You'll work at the intersection of cutting-edge research and production engineering, implementing, scaling, and improving post-training techniques like Constitutional AI, RLHF, and other alignment methodologies. Your work will directly impact the quality, safety, and capabilities of our production models. Note: For this role, we 

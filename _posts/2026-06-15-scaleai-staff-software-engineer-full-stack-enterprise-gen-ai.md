@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4529529005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4529529005
+
+---
+
 ## 원문
 
 Staff Software Engineer, Full-Stack - Enterprise Gen AI Scale GP (Scale Generative AI Platform) is an enterprise-grade AI platform providing APIs for knowledge retrieval, inference, evaluation, and more. We are looking for a frontend-focused full-stack engineer to help build AI-powered applications that redefine enterprise workflows and push the boundaries of interactive AI. This role is ideal for someone who thrives in a fast-paced environment, enjoys working on a diverse set of projects, and has a passion for crafting high-quality, intuitive user experiences. At Scale, you'll work on a mix of cutting-edge customer-facing AI applications and internal SaaS products. Our engineering team powers projects like TIME’s Person of the Year AI experience ( see it in action ), where our AI technology helped shape one of the most iconic features in media. You'll also contribute to Scale’s GenAI Platform ( SGP ), a powerful system that enables businesses to build and deploy AI agents at scale. Wh

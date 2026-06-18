@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7866371"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7866371
+
+---
+
 ## 원문
 
 職務說明摘要（Job Description Summary） 在 Coupang，我們致力於以世界級的服務、速度與穩定性，持續帶給客戶驚喜。身為設施維護資深經理（Principle Manager），你將在確保公司設施維持最高運作效率方面扮演關鍵角色，並直接促成履約中心（Fulfillment Center）的順暢運作。 透過領導設施經理與技術人員團隊、運用數據分析，以及持續優化流程，你將協助維持整體網絡的高稼動率與可靠性，確保 Coupang 每一次都能兌現對客戶的承諾。 如果你是具備前瞻思維的問題解決者，並對營運最佳化與團隊培育充滿熱情，這將會是一個非常適合你的職位！ 策略與政策制定（Strategy and Policy Development） · 制定並落實符合 Coupang 營運目標的設施維護策略。 · 確保遵循安全法規、相關法令及公司政策，以維持安全且高效率的工作環境。 年度目標展開與執行（Annual Goal Deployment &amp; Execution） · 將公司層級目標轉化為設施維護的具體行動方案。 · 依據關鍵績效指標（KPI）追蹤表現，並推動改善設施穩定度的相關專案。 營運卓越與持續改善（Operational Excellence &amp; Continuous Improvement） · 盤點並評估現行設施維護流程、系統與作業方式，找出改善機會。 · 以數據導向方式導入優化措施，提升營運效能與效率。 · 運用預測性與預防性維護手法，降低設備停機風險並延長使用壽命。 人員管理與發展（People Management and Development） · 領導、指導並培育設施維護技術人員，提升其技術能力與問題解決技巧。 在團隊中營造持續學習與高績效的文化。 · 規劃並執行人力配置策略，確保人力充足並持續發展必要技能。 數據分析與設施稼動率（Data Analytics &amp; Facility Uptime） · 運用分析工具追蹤設施關鍵指標，如設備稼動率、運轉效率與成本改善。 解讀數據洞察，推動前瞻性的維護策略，提升整體網絡的穩定性與可靠性。 專案與供應商管理（Project and Vendor Management） · 負責設施相關專案，包括擴建、升級與基礎建設改善。 · 管理供應商關係，確保維護服務與物料採

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8521190002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8521190002
+
+---
+
 ## 원문
 
 Principal Research Scientist – Scaling P-1227 About Databricks AI At Databricks, we are obsessed with enabling data teams to solve the world’s toughest problems, from security threat detection to cancer drug development, by building and running the world’s best data and AI platform. The Databricks AI Research organization enables companies to develop AI models and agents using their own data, with technologies ranging from post-training open source LLMs to developing advanced multi-agent architectures. Databricks AI is committed to the belief that a company’s AI models and agents are just as valuable as any other core IP, and that high-quality AI should be available to all. About the Scaling Research Team The Databricks AI Scaling team focuses on pushing the boundaries of large language model (LLM) training and inference efficiency beyond what is required to support existing models. The team explores novel avenues for scaling and efficiency improvements across algorithms, systems, and 

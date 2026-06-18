@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008
+
+---
+
 ## 원문
 
 Block builds simple, powerful tools that make progress towards an economy that’s truly open to all. Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us. The Role As a Staff Applied Machine Learning Engineer focused on Intelligent Data, Signals &amp; Systems, you will build production ML systems that transform customer behavior, product context, model outputs, and feedback loops into trusted signals used by recommendations, ranking, risk-aware decisioning, growth, and customer intelligence syst

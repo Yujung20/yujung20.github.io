@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4413274005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4413274005
+
+---
+
 ## 원문
 
 Scale’s mission is to develop reliable AI systems for the world's most important decisions. Our core work consists of: Creating custom AI applications that will impact millions of citizens Generating high-quality training data for national LLMs Upskilling and advisory services to spread the impact of AI Scale is hiring ML Research Engineers to bridge the gap between emerging AI capabilities and mission-critical, real-world impact. In our Global Public Sector (GPS) division, we don’t just implement tools; we conduct applied research to solve the unique challenges of sovereign AI. Your role is to move beyond off-the-shelf implementations. You will lead the research into Agent Design, Reliability, and AI Safety, developing novel system architectures that power high-stakes government applications. You will be the bridge between a research paper and a production-ready system that functions at scale. The Mission Applied Agent Research: Leading the design of reliable, multi-step agentic syste

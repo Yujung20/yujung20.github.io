@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367437"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367437
+
+---
+
 ## 원문
 
 인핸스(Enhans)는 데이터·AI 기반 문제 해결을 통해 기업의 의사결정 수준을 혁신하는 기술 기업입니다.

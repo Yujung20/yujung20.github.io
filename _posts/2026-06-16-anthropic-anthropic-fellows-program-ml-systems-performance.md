@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5183051008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5183051008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Apply using this link . We are accepting applications on a rolling basis for the next cohort of Anthropic Fellows, which is expected to start in late September. In some circumstances, we can accommodate fellows starting outside the usual cohort timelines — please note in your application if the September start date doesn't work for you. This page is specific to one of the Anthropic Fellows Workstreams, see also the main&nbsp; Anthropic Fellows posting . Anthropic Fellows Program overview The Anthropic Fellows Program is designed to foster AI research and engineering talent. We provide funding and mentorship to promising technical talent - regardless of p

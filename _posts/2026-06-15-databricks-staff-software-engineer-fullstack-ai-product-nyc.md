@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002
+
+---
+
 ## 원문
 
 P-1607 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. As one of the first engineers in the NYC Engineering office, you’ll have the opportunity to be part of a small, nimble team that’s innovating to build new products from the ground up. Our goal is to leverage the power of Databricks in data &amp; AI to deliver vertical AI applications for both technical and business users. This will be a true 0-t

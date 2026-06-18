@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/366857"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/366857
+
+---
+
 ## 원문
 
 노바인은 현장 문제를 깊이 이해하고, 운영 현장에서 곧바로 성과를 만드는 도메인 특화 AI 솔루션을 구축합니다.

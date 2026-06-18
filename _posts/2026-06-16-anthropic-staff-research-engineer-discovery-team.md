@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4593216008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4593216008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Team Our team is organized around the north star goal of building an AI scientist – a system capable of solving the long term reasoning challenges and basic capabilities necessary to push the scientific frontier. Our team likes to think across the whole model stack. Currently the team is focused on improving models' abilities to use computers – as a laboratory for long horizon tasks and a key blocker to many scientific workflows. About the role As a Research Engineer on our team you will work end to end, identifying and addressing key blockers on the path to scientific AGI. Strong candidates should have familiarity with language model training,

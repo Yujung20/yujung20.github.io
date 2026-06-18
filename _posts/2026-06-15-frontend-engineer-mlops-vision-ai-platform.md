@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/363913"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/363913
+
+---
+
 ## 원문
 
 아이벡스 (구.아이브(AiV))는 "Seamless Industrial AI Vision, Autonomy in Motion."라는 비전을 가지고 현재 제조업 검사용 딥러닝 알고리즘 및 검사 솔루션 전문적으로 연구/개발 및 양산하는 vertical AI 스타트업입니다. 

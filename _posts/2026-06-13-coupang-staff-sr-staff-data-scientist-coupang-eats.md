@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7920145"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7920145
+
+---
+
 ## 원문
 
 About the Role Coupang Eats는 단순한 분석을 넘어, 비즈니스 의사결정에 직접 영향을 미치는 시스템을 구축 할 수 있는 Data Scientist를 찾고 있습니다. 이 역할에서는 대규모이면서 복잡한 데이터가 존재하는 marketplace 운영 전반의 실제 문제 를 다루게 됩니다. 분석적 사고(analytical thinking), modeling, 그리고 production-ready 구현을 결합하여 이러한 문제들을 구조화된 해결책으로 전환 하는 것이 주요 기대 역할입니다. &nbsp; &nbsp; Why This Role 이 포지션은 문제 정의부터 실제 deployment까지 전 과정을 직접 주도하는 높은 ownership을 요구하는 hands-on 역할 입니다. 한국과 일본 시장을 모두 다루며, **서로 다른 데이터 환경과 운영 조건 아래에서 유사한 문제를 해결하고, 이를 region 간 확장(scale)**하는 경험을 하게 됩니다. &nbsp; 업무의 비중은 다음과 같습니다: Scalable modeling 및 automation 시스템 구축 (~70%) Analytical exploration 및 insight 도출 (~30%) &nbsp; 이 포지션의 매력 빠르게 성장하는 경쟁 환경의 marketplace에 직접적인 impact 대규모·고복잡도의 real-world data 문제 해결 경험 높은 ownership과 production 적용 및 leadership team과의 직접 협업 기회 &nbsp; &nbsp; What You Will Work On 단순한 분석으로 해결되지 않는 문제를 다루며, scalable system과 automated decision logic 이 필요한 영역을 담당합니다. &nbsp; Platform Coverage restaurant onboarding을 빠르게 지원하기 위한 image recognition 개발 마케팅 Target Segment 및 banner/creative 생성을 위한 AI 솔루

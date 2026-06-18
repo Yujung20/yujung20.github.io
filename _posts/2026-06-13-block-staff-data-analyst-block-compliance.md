@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008
+
+---
+
 ## 원문
 
 Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block. The Role The Staff Data Analyst will join the Block Compliance Analytics team chartered to put data at the center of the Compliance organization. You have a proven track record in the Financial Crimes and AML space, and in this role you will develop strategies and lead key workstreams to deliver actionable analytics to leaders throughout the Block business 

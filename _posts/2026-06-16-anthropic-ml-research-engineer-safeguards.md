@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4949336008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4949336008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role We are looking for ML Engineers and Research Engineers to help detect and mitigate misuse of our AI systems. As a member of the Safeguards ML team, you will build systems that identify harmful use—from individual policy violations to sophisticated, coordinated attacks—and develop defenses that keep our products safe as capabilities advance. You will also work on systems that protect user wellbeing and ensure our models behave appropriately across a wide range of contexts. This work feeds directly into Anthropic's Responsible Scaling Policy commitments. Responsibilities Develop classifiers to detect misuse and anomalous behavior at scale. T

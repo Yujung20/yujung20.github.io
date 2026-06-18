@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002
+
+---
+
 ## 원문
 
 (P-1490) Databricks processes petabytes of data and billions of transaction events daily - every cluster launch, every query executed, every dollar billed flows through infrastructure that must never fail. When we process billions in billing transactions with 99.999% accuracy requirements, when we ingest terabytes per second across 100+ regions, when a five-minute outage costs millions in revenue and customer trust - infrastructure isn't just important, it's existential. The next phase of our growth demands disaster recovery systems that prove reliability rather than hope for it, testing frameworks that catch production-scale problems before deployment, correctness guarantees that make billing errors structurally impossible, and automation that scales operations sublinearly with growth. In this leadership opportunity, you will build the data infrastructure organization that makes Databricks' continued growth possible. You'll establish foundational teams in Bengaluru owning the bedrock 

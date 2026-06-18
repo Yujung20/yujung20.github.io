@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7339890"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7339890
+
+---
+
 ## 원문
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know. &nbsp; Snapshot&nbsp; &nbsp; Science is at the heart of everything we do at Google DeepMind. From the beginning, we took inspiration from science to build better algorithms, and now, we want to use our toolkit to accelerate scientific discovery. By bringing together specialists with backgrounds in machine learning, computer science, physics, chemistry, biology and more, we’re optimistic

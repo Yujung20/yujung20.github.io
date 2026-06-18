@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367835"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367835
+
+---
+
 ## 원문
 
 오믈렛(Omelet.ai)이 추구하는 AI 엔지니어는 기술로 복잡계 산업의 난제를 해결하는 '풀사이클 기술 리더'입니다. 우리는 단순히 모델을 학습시키는 역할을 넘어, 제품의 기획부터 배포, 운영, 그리고 개선에 이르는 전체 사이클(Full-cycle)을 주도하며, Operational Intelligence Platform를 통해 산업 현장의 비효율을 혁신할 엔지니어를 찾습니다.

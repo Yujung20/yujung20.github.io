@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002
+
+---
+
 ## 원문
 
 At Databricks, we are obsessed with enabling data teams to solve the world's toughest problems, from security threat detection to cancer drug development. We do this by building and running the world's best data and AI infrastructure platform, so our customers can focus on the high value challenges that are central to their own missions. Founded in 2013 by the original creators of Apache Spark, Databricks has grown from a tiny corner office in Berkeley, California to a global organization with over 1000 employees. Thousands of organizations, from small to Fortune 100, trust Databricks with their mission-critical workloads, making us one of the fastest growing SaaS companies in the world. Our engineering teams build highly technical products that fulfill real, important needs in the world. We constantly push the boundaries of data and AI technology, while simultaneously operating with the resilience, security and scale that is critical to making customers successful on our platform. We 

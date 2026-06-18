@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002
+
+---
+
 ## 원문
 
 RDQ126R106 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to tackle technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. As a Sr. Staff Software Engineer you will be part of the executive leadership team on the Data Platform org. You will leverage bleeding-edge AI developer tools and techniques to help build the Data Intelligence Platform that will allow us to automate decision-making across Databricks. You will achieve this in collaboration with prominent Te

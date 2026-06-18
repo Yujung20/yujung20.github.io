@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7171371"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7171371
+
+---
+
 ## 원문
 
 Snapshot&nbsp; At Google DeepMind, our research team is dedicated to tackling the most complex challenges in online information quality. We strive to advance the state of the art by developing innovative solutions to detect manipulated media and misleading narratives, ensuring the integrity of digital discourse. A prominent example of our scientific discovery is Backstory . Our interdisciplinary work spans provenance analysis and the creation of tools for AI-assisted information literacy, leveraging our technologies for the widespread public benefit of a safer online environment. We thrive in a supportive environment that encourages rapid prototyping and iteration, driving our research achievements directly into Google’s flagship models, including Gemini. About us&nbsp; Artificial Intelligence could be one of humanity’s most useful inventions. At Google DeepMind, we’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art i

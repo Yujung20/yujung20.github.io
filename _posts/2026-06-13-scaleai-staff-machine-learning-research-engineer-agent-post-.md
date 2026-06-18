@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4625337005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4625337005
+
+---
+
 ## 원문
 
 AI is becoming vitally important in every function of our society. At Scale, our mission is to accelerate the development of AI applications. For 9 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including generative AI, defense applications, and autonomous vehicles. With our recent investment from Meta, we are doubling down on building out state of the art post-training algorithms to reach the performance necessary for complex agents in enterprises around the world.&nbsp; The Enterprise ML Research Lab works on the front lines of this AI revolution. We are working on an arsenal of proprietary research, tools, and resources that serve all of our enterprise clients. As a Staff Agent Post-Training MLRE, you will build out our next-gen Agent RL training platform. You’ll build out the platform that will train best-in-class Agents that achieve state of the art results on real enterprise use-cases.&nbsp; You’ll integrate cutting edge rese

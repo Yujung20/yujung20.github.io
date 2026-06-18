@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5257820008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5257820008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Role: We are seeking a People Research Scientist to join our People Data Solutions team. You’ll be the research expert supporting our broader People organization, using rigorous scientific methods to advance our understanding of the employee experience, manager effectiveness, organizational health, and workforce dynamics. This role sits at the intersection of organizational science, behavioral research, and people strategy – developing novel frameworks and conducting systematic research that drives evidence-based people decisions across our growing organization. This role offers the opportunity to make a significant impact on both our people pr

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367999"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367999
+
+---
+
 ## 원문
 
 [Beyond Digital Transformation, We Accelerate AI Transformation] 몬드리안에이아이는 디지털 전환을 넘어, 인공지능 전환을 가속화합니다.

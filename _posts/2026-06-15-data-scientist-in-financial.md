@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/367782"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/367782
+
+---
+
 ## 원문
 
 ㈜페니로이스는 빅데이터 분석 및 예측 모델링을 통해 금융기관들의 다양한 모형 및 전략을 개발하는 전문 컨설팅회사입니다. 

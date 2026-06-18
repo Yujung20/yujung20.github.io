@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002
+
+---
+
 ## 원문
 
 P-1504 The Applied AI team at Databricks sits at the forefront of advancing GenAI-powered products. Over the past years, we’ve launched&nbsp; Databricks Assistant ,&nbsp; AI/BI Genie , and&nbsp; Agent Bricks&nbsp; working with product teams, and made significant strides in LLM quality for these products. These products are used by 100s of thousands of Databricks users every day. We are tackling challenging problems like code suggestion, error detection and correction, text-to-sql generation, automatic pipeline generation, knowledge QA and many others. As our GenAI products continue to evolve, we are seeking multiple &nbsp;GenAI Engineers from junior levels to more senior levels to drive the next phase of development. In 2025, we will focus on enhancing LLM quality, expanding GenAI capabilities across Databricks products, and strengthening our platform architecture to enable seamless AI interactions at scale. Key Responsibilities Shape the direction of our applied AI areas and intellige

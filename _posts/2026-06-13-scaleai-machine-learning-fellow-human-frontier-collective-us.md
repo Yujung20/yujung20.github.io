@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4660340005
+
+---
+
 ## 원문
 
 PLEASE NOTE:&nbsp; This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the United States; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do ML Projects: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Help models understand real-world deep learning workflows by designing, reviewing, and optimizing PyTorch models, evaluating complex ML code and AI-gener

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://databricks.com/company/careers/open-positions/job?gh_jid=8555703002"
 ---
 
+## 링크
+
+https://databricks.com/company/careers/open-positions/job?gh_jid=8555703002
+
+---
+
 ## 원문
 
 P-226 As a&nbsp; Specialist Solutions Architect (SSA) - Data Engineering &amp; Warehousing , you will guide customers through cloud data engineering and warehousing transformations across a wide variety of use cases. In this customer-facing role, you will collaborate with and support Solutions Architects. This requires hands-on production experience with large-scale data warehousing technologies and lakehouse architecture. The SSA teams help customers navigate evaluations and successful production planning for their business intelligence workloads while aligning their technical roadmap with the Databricks Data Intelligence Platform. As a deep go-to expert reporting to the Specialist Field Engineering Manager, you will continue to strengthen your technical skills through mentorship, continuous learning, and internal training programs. In this role, you will establish yourself as a leader in the data engineering and warehousing specialty. The impact you will have: Provide technical leade

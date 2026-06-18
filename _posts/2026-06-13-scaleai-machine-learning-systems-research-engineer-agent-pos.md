@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4625341005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4625341005
+
+---
+
 ## 원문
 
 AI is becoming vitally important in every function of our society. At Scale, our mission is to accelerate the development of AI applications. For 9 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including generative AI, defense applications, and autonomous vehicles. With our recent investment from Meta, we are doubling down on building out state of the art post-training algorithms to reach the performance necessary for complex agents in enterprises around the world.&nbsp; The Enterprise ML Research Lab works on the front lines of this AI revolution. We are working on an arsenal of proprietary research and resources that serve all of our enterprise clients. As an ML Sys Research Engineer, you’ll work on building out the algorithms for our next-gen Agent RL training platform, support large scale training, and research and integrate state-of-the-art technologies to optimize our ML system. Your customer will be other MLREs and AAIs on 

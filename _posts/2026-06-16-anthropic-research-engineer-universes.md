@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5061517008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5061517008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Team The Universes team within Research is responsible for training AI models to perform complex, difficult, long-horizon agentic tasks in ultra-realistic settings. We design and implement novel training environments that go far beyond what models can do today — environments where models learn to navigate ambiguity, handle interruptions, maintain context over extended interactions, and exercise judgment in open-ended scenarios. About the Role We're looking for Research Engineers to help us build the next generation of training environments for capable and safe agentic AI. This role blends research and engineering responsibilities, requiring you

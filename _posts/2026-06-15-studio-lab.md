@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/82388"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/82388
+
+---
+
 ## 원문
 
 [ 스튜디오랩은 이런 일을 합니다! ]

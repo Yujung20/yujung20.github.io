@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.mongodb.com/careers/job/?gh_jid=6984814"
 ---
 
+## 링크
+
+https://www.mongodb.com/careers/job/?gh_jid=6984814
+
+---
+
 ## 원문
 
 The Team MongoDB’s Storage Layer Services (SLS) team is re-architecting the MongoDB cloud storage layer and sits at the heart of our next-generation cloud storage architecture. This relatively new team is building performant, multi-tenant distributed storage services that both enhance today’s Atlas storage stack and enable more customer workloads to run more efficiently. You will partner with the teams building these storage services to define SLOs, shape capacity plans, and ensure the reliability, durability, and operational safety of the storage layer that underpins Atlas. You’ll join a small, senior team of SREs as founding members of this organization, playing a crucial role in executing on a multi-year roadmap for MongoDB’s cloud storage architecture. This role can be based out of either our Dublin or Cork office or remotely in Ireland. The ideal candidate should:&nbsp; Have 6+ years of experience working on software development and operating distributed systems Proficiency in Pyt

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/4532887008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/4532887008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role:&nbsp; As a Research Scientist/Engineer focused on honesty within the Finetuning Alignment team, you'll spearhead the development of techniques to minimize hallucinations and enhance truthfulness in language models. Your work will focus on creating robust systems that are accurate and reflect their true levels of confidence across all domains, and that work to avoid being deceptive or misleading. Your work will be critical for ensuring our models maintain high standards of accuracy and honesty across diverse domains. Note: The team is based in New York and so we have a preference for candidates who can be based in New York. For this role, 

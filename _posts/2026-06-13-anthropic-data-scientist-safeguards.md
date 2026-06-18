@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/anthropic/jobs/5209196008"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/anthropic/jobs/5209196008
+
+---
+
 ## 원문
 
 About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As an early member of our Safeguards Data Science and Analytics team, you will play an instrumental role in our company’s mission of building safe and beneficial artificial intelligence by building and scaling a data driven culture from the ground up. In this unique company, technology, and moment in history, your work will be critical to informing our product and commercial strategy as we deploy safe, frontier AI at scale to the world.&nbsp; You will work closely with product, engineering, policy &amp; enforcement to define and measure key company success metrics, analyze user behavior to identify new enforcement opportunities and build a

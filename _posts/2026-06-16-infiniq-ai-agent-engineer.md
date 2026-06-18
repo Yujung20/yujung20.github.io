@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368511"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368511
+
+---
+
 ## 원문
 
 인피닉은 인공지능 플랫폼 및 솔루션 전문 기업으로 

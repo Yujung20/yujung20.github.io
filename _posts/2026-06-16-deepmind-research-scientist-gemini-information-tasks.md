@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/deepmind/jobs/7450900"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/deepmind/jobs/7450900
+
+---
+
 ## 원문
 
 Snapshot We are looking for a research scientist who will drive research in Gemini for information tasks. The candidate will primarily work on post-training, but could potentially also work on model-external interventions. About Us Our team works on improving Gemini on tasks where users interact with the model to complete information journeys;&nbsp; this includes improving helpfulness and factuality of Gemini models.&nbsp; To this end, we have developed novel post-training innovations to improve the quality, groundedness and factuality of Gemini models in search on mode.&nbsp; Our work impacts product surfaces including AI Mode, Gemini App, AI Studio and Vertex AI. The Role In this role, we expect the candidate to work on improving Gemini for information tasks, focusing on quality of information-seeking responses (helpfulness, factuality, grounding, and other aspects). It is an opportunity to explore fundamental issues in modeling and data interventions for information-seeking scenario

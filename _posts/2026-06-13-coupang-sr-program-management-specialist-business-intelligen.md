@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7126514"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7126514
+
+---
+
 ## 원문
 
 Coupang is reimagining the shopping experience with the goal of wowing each customer from the instant they open the Coupang app to the moment an order is delivered to their door. &nbsp; &nbsp; &nbsp; Our services in Taiwan include “Rocket Delivery” which offers next-day delivery for a wide selection of items at affordable prices, “Rocket Oversea” which offers free international delivery on millions of best-selling products from Korea, the U.S., and beyond. &nbsp; We are looking for talents to help us lead Coupang’s expansion in Taiwan. This is an exceptional opportunity to become a part of Coupang’s growth in Taiwan and create a world where our customers wonder, “How did I ever live without Coupang?”&nbsp;&nbsp; &nbsp; Position: Sr. &nbsp;Program Management Specialist (Business Intelligence) Role Overview: The Customer-Centric Planning team is looking for a senior Business Analyst that enables active and fast drives, providing customer Insights analysis, manage risks and opportunities 

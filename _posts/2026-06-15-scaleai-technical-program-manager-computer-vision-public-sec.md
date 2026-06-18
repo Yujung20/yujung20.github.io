@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4692201005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4692201005
+
+---
+
 ## 원문
 
 Scale AI is at the forefront of the AI revolution, helping the U.S. government unlock the potential of AI across national security missions. We’re building enterprise-grade computer vision solutions and delivering them into operational use cases that matter. &nbsp; We’re hiring a technical program manager (TPM) to lead and coordinate delivery of computer vision workflows for a national security customer. As a TPM on our public sector delivery team, you will own or support a customer account plan, triage customer technical issues, use data and analytics to align internal resources around Scale’s hardest problems, and drive the creation of tools that add direct value to Scale’s Public Sector customers. &nbsp; You will: Manage customer relationships from the executive to the end user Work alongside customers to scope computer vision use cases that Scale’s engineering team will build and you will ultimately refine Lead or support a cross-functional project team to deliver on and exceed the

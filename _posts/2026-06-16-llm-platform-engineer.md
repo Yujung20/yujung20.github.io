@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/362017"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/362017
+
+---
+
 ## 원문
 
 • Moreh는 기존 AI 인프라의 한계를 극복하기 위해 하드웨어와 소프트웨어를 아우르는 새로운 시스템을 개발하는 것을 목표로 합니다.

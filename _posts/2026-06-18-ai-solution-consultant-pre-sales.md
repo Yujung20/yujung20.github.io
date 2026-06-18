@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368992"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368992
+
+---
+
 ## 원문
 
 ■ 팀스파르타 ​AI ​Solution ​Consultant (기술영업/Pre-Sales)를 ​소개해요

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/366915"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/366915
+
+---
+
 ## 원문
 
 케이존은 전 세계 리테일 시장에서 발생하는 반품·악성재고를

@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364511"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364511
+
+---
+
 ## 원문
 
 빗썸은 대한민국 대표 가상자산거래소입니다.

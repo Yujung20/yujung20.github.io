@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/338493"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/338493
+
+---
+
 ## 원문
 
 인포유앤컴퍼니는 Data & AI 전문 기업으로, Azure OpenAI와 Azure Cloud Service를 기반으로 AI 및 데이터 플랫폼을 구축하며 기업의 AI 혁신을 선도하고 있습니다.

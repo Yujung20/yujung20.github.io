@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/364094"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/364094
+
+---
+
 ## 원문
 
 팀리미티드는 데이터와 AI로 커머스의 미래를 만들어가는 팀입니다.

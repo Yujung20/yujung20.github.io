@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/368575"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/368575
+
+---
+
 ## 원문
 
 윌로그(Willog)는 하드웨어·소프트웨어·데이터를 결합한 AIoT 물류 인텔리전스 솔루션으로, 복잡하고 비효율적인 글로벌 물류 산업을 근본적으로 혁신하는 테크 스타트업입니다.

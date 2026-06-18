@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/337343"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/337343
+
+---
+
 ## 원문
 
 [와탭랩스를 소개합니다!]

@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://stripe.com/jobs/search?gh_jid=7930151"
 ---
 
+## 링크
+
+https://stripe.com/jobs/search?gh_jid=7930151
+
+---
+
 ## 원문
 
 Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe’s Product Legal team is responsible for managing the legal and regulatory elements of the design, build and execution of our products and services. We work on some of the hardest technical, commercial, and regulatory problems around, and we’re looking for a product lawyer to join our team. In this role you will be a key advisor to Stripe’s product, engineering and partnerships teams, and will work on a diverse set of matters that straddle financial servi

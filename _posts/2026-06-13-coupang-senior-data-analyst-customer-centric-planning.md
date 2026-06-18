@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://www.coupang.jobs/en/jobs/?gh_jid=7157318"
 ---
 
+## 링크
+
+https://www.coupang.jobs/en/jobs/?gh_jid=7157318
+
+---
+
 ## 원문
 
 Company Introduction &nbsp; Coupang is reimagining the shopping experience with the goal of wowing each customer from the instant they open the Coupang app to the moment an order is delivered to their door. &nbsp; &nbsp; &nbsp; Our services in Taiwan include “Rocket Delivery” which offers next-day delivery for a wide selection of items at affordable prices, “Rocket Oversea” which offers free international delivery on millions of best-selling products from Korea, the U.S., and beyond. &nbsp; We are looking for talents to help us lead Coupang’s expansion in Taiwan. This is an exceptional opportunity to become a part of Coupang’s growth in Taiwan and create a world where our customers wonder, “How did I ever live without Coupang?”&nbsp;&nbsp; &nbsp; &nbsp; Role Overview &nbsp; &nbsp; The Customer-Centric Planning team is looking for a Senior Data Analyst with an engineering mindset. You will not only be a user of data but also a builder of data infrastructure. This position highly integra

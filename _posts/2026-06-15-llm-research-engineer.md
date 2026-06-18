@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/350722"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/350722
+
+---
+
 ## 원문
 
 Narnia Labs (나니아랩스)

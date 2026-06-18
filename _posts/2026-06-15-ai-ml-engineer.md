@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/357579"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/357579
+
+---
+
 ## 원문
 
 (주)트위닛은 옴니채널 뷰티 프로파일링 기반 AI Agent 솔루션으로 화장품 유통/메디컬 에스테틱 매장의 최적화 문제를 해결하는 뷰티테크 스타트업입니다.

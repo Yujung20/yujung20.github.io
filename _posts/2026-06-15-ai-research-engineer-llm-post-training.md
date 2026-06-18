@@ -9,6 +9,12 @@ source: "wanted"
 link: "https://www.wanted.co.kr/wd/226037"
 ---
 
+## 링크
+
+https://www.wanted.co.kr/wd/226037
+
+---
+
 ## 원문
 
 업스테이지는 AI 기술을 활용하여 비즈니스 문제 해결에 주력하는 기업으로, ​"Making AI Beneficial"​이라는 비전과 ​"Artificial General Intelligence (AGI) for Work"​라는 미션을 기반으로 운영됩니다. 단순한 업무 자동화를 넘어, 복잡한 의사결정 지원 및 비용 절감을 통해 기업의 생산성을 혁신적으로 향상시키는 AI 솔루션 개발에 집중하고 있습니다.

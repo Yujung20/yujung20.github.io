@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "http://block.xyz/careers/jobs/5198103008?gh_jid=5198103008"
 ---
 
+## 링크
+
+http://block.xyz/careers/jobs/5198103008?gh_jid=5198103008
+
+---
+
 ## 원문
 
 Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.&nbsp;Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us. The Role The Risk Automation ML team automates Risk and Compliance investigations and decision making at Block through the application of agentic and generative AI technology. We work globally with partners in Product, Engineering and Operations to ensure that we are providing a safe user experience for our customers while minimizing or e

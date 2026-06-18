@@ -9,6 +9,12 @@ source: "greenhouse"
 link: "https://job-boards.greenhouse.io/scaleai/jobs/4282118005"
 ---
 
+## 링크
+
+https://job-boards.greenhouse.io/scaleai/jobs/4282118005
+
+---
+
 ## 원문
 
 Scale’s Generative AI business unit is currently seeing historic levels of growth. As a Strategic Projects Lead (SPL), you will&nbsp; leading initiatives that will drive $XXM+ in new revenue for the business. This is a demanding role, and as an SPL, you should be prepared to wear many hats such as Operator, Product Manager and customer-facing Engagement Manager. The ideal SPL should have a strong entrepreneurial mindset, be comfortable getting into the weeds, and be excited about intense, impactful work that leads to an accelerated career progression. &nbsp; You will: Lead cross-functional projects with diverse stakeholders (Engineering + Ops + Go-to-Market) Partner with product and engineering teams to enhance products to fulfill needs of strategic customers and initiatives Own the execution of our data labeling operations for strategic projects Give regular progress updates to Scale’s executive team Work on some of the most impactful problems at the company Ideally, you’d have: Stron
