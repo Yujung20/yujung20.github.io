@@ -2,7 +2,7 @@
   "skillCount": {
     "Python": 9,
     "SQL": 9,
-    "R": 10,
+    "R": 11,
     "AWS": 3,
     "Spark": 4,
     "Kafka": 1,
@@ -108,6 +108,9 @@
     "Drive-Your-Talent-Intern-Legal-Engineering": {
       "Python": 1,
       "SQL": 1,
+      "R": 1
+    },
+    "Group-MKT-BD-Intern": {
       "R": 1
     }
   },
@@ -252,6 +255,6 @@
   "levelCount": {
     "Unknown": 6,
     "Junior": 2,
-    "Intern": 4
+    "Intern": 5
   }
 }
