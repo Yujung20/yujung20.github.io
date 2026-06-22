@@ -1,8 +1,8 @@
 {
   "skillCount": {
-    "Python": 8,
-    "SQL": 8,
-    "R": 9,
+    "Python": 9,
+    "SQL": 9,
+    "R": 10,
     "AWS": 3,
     "Spark": 4,
     "Kafka": 1,
@@ -104,11 +104,16 @@
       "Airflow": 1,
       "dbt": 1,
       "ETL": 1
+    },
+    "Drive-Your-Talent-Intern-Legal-Engineering": {
+      "Python": 1,
+      "SQL": 1,
+      "R": 1
     }
   },
   "skillPairs": {
-    "Python + SQL": 5,
-    "Python + R": 6,
+    "Python + SQL": 6,
+    "Python + R": 7,
     "AWS + Python": 3,
     "Python + Spark": 4,
     "Kafka + Python": 1,
@@ -118,7 +123,7 @@
     "Python + dbt": 4,
     "PostgreSQL + Python": 2,
     "MySQL + Python": 2,
-    "R + SQL": 6,
+    "R + SQL": 7,
     "AWS + SQL": 2,
     "SQL + Spark": 2,
     "Kafka + SQL": 1,
@@ -247,6 +252,6 @@
   "levelCount": {
     "Unknown": 6,
     "Junior": 2,
-    "Intern": 3
+    "Intern": 4
   }
 }
