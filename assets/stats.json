@@ -2,7 +2,7 @@
   "skillCount": {
     "Python": 9,
     "SQL": 9,
-    "R": 11,
+    "R": 12,
     "AWS": 3,
     "Spark": 4,
     "Kafka": 1,
@@ -22,7 +22,7 @@
     "Go": 1,
     "Redis": 1,
     "Java": 1,
-    "NLP": 1
+    "NLP": 2
   },
   "roleSkillMap": {
     "Data-Engineer-Mapping": {
@@ -112,6 +112,10 @@
     },
     "Group-MKT-BD-Intern": {
       "R": 1
+    },
+    "Data-Engineer-Amplify": {
+      "R": 1,
+      "NLP": 1
     }
   },
   "skillPairs": {
@@ -248,12 +252,12 @@
     "Azure + Java": 1,
     "Java + Spark": 1,
     "NLP + Python": 1,
-    "NLP + R": 1,
+    "NLP + R": 2,
     "ETL + Spark": 1,
     "Airflow + ETL": 1
   },
   "levelCount": {
-    "Unknown": 6,
+    "Unknown": 7,
     "Junior": 2,
     "Intern": 5
   }
